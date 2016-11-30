@@ -32,7 +32,7 @@ Nightmare是一个高级别的自动化浏览器程序。
 ## Examples
 
 在Yahoo运行脚本：
-```
+```javascript
 var Nightmare = require('nightmare');
 var nightmare = Nightmare({ show: true });
 
@@ -60,7 +60,7 @@ node example.js
 ```
 
 或者让我们进行Mocha测试：
-```
+```javascript
 var Nightmare = require('nightmare');
 var expect = require('chai').expect; // jshint ignore:line
 
@@ -114,7 +114,7 @@ Nightmare必须运行在NodeJS 4.x或更高版本上。
 
 #### waitTimeout (default: 30s)
 如果`.wait()`在设置的时间范围内没有返回`true`，这将抛出异常。
-```
+```javascript
 var nightmare = Nightmare({
   waitTimeout: 1000 // in ms
 });
@@ -122,7 +122,7 @@ var nightmare = Nightmare({
 
 #### gotoTimeout (default: 30s)
 如果由操作（例如，`.click()`）导致的页面转换未在设置的时间范围内完成，这将使Nightmare继续运行。如果`loadTimeout`小于`gotoTimeout`，则`gotoTimeout`抛出的异常将被禁止。
-```
+```javascript
 var nightmare = Nightmare({
   loadTimeout: 1000 // in ms
 });
@@ -130,7 +130,7 @@ var nightmare = Nightmare({
 
 #### executionTimeout (default: 30s)
 等待`.evaluate()`语句完成的最长时间。
-```
+```javascript
 var nightmare = Nightmare({
   executionTimeout: 1000 // in ms
 });
@@ -141,7 +141,7 @@ Electron知道的默认系统路径。 以下是可用路径的列表：
 [https://github.com/electron/electron/blob/master/docs/api/app.md#appgetpathname](https://github.com/electron/electron/blob/master/docs/api/app.md#appgetpathname)  
 
 你可以通过执行以下操作在Nightmare中覆盖它们：
-```
+```javascript
 var nightmare = Nightmare({
   paths: {
     userData: '/user/data'
@@ -151,7 +151,7 @@ var nightmare = Nightmare({
 
 #### switches
 由Electron支持的Chrome浏览器使用的命令行开关。以下是受支持的Chrome命令行开关的列表：[https://github.com/electron/electron/blob/master/docs/api/chrome-command-line-switches.md](https://github.com/electron/electron/blob/master/docs/api/chrome-command-line-switches.md)
-```
+```javascript
 var nightmare = Nightmare({
   switches: {
     'proxy-server': '1.2.3.4:5678',
@@ -162,7 +162,7 @@ var nightmare = Nightmare({
 
 #### electronPath
 预创建二进制的Electron路径。这对于在不同版本的Electron上进行测试很有用。注意，Nightmare只支持这个包的版本。使用此选项请自行承担风险。
-```
+```javascript
 var nightmare = Nightmare({
   electronPath: require('electron')
 });
@@ -170,7 +170,7 @@ var nightmare = Nightmare({
 
 #### dock (OS X)
 （可选）在dock中显示Electron图标的布尔值（默认为`false`）。这对于测试目的很有用。
-```
+```javascript
 var nightmare = Nightmare({
   dock: true
 });
@@ -178,7 +178,7 @@ var nightmare = Nightmare({
 
 #### openDevTools
 （可选）在窗口中显示DevTools（开发者工具），使用`true`，或者在单独的窗口中显示使用包含`mode: 'detach'`的哈希对象。哈希将传递到`contents.openDevTools()`以进行处理。这也用于测试目的。请注意，只有将`show`设置为`true`，才会使用此选项。
-```
+```javascript
 var nightmare = Nightmare({
   openDevTools: {
     mode: 'detach'
@@ -189,7 +189,7 @@ var nightmare = Nightmare({
 
 #### typeInterval (default: 100ms)
 使用`.type()`时，在按键之间等待多长时间。
-```
+```javascript
 var nightmare = Nightmare({
   typeInterval: 20
 });
@@ -197,7 +197,7 @@ var nightmare = Nightmare({
 
 #### pollInterval (default: 250ms)
 在检查`.wait()`条件是否成功之前等待多长时间。
-```
+```javascript
 var nightmare = Nightmare({
   pollInterval: 50 //in ms
 });
@@ -287,7 +287,7 @@ var nightmare = Nightmare({
 
 #### .evaluate(fn[, arg1, arg2,...])
 使用`arg1，arg2，...`调用页面上的`fn`。完成后，它返回`fn`的返回值。用于从页面提取信息。例子：
-```
+```javascript
 var selector = 'h1';
 nightmare
   .evaluate(function (selector) {
@@ -300,7 +300,7 @@ nightmare
 ```
 
 回调支持作为evaluate的一部分。如果传递的参数比计算函数预期的参数少一个，evaluation将传递一个回调作为该函数的最后一个参数。例如：
-```
+```javascript
 var selector = 'h1';
 nightmare
   .evaluate(function (selector, done) {
@@ -314,7 +314,7 @@ nightmare
 
 注意，回调只支持一个值参数。最终，回调将被包装在原生的Promise中，并且只能解析单个值。   
 Promises支持作为evaluate的一部分。如果函数的返回值有一个`then`成员，假设`.evaluate()`在等待Promise。例如：
-```
+```javascript
 var selector = 'h1';
 nightmare
   .evaluate(function (selector, done) {
@@ -412,7 +412,7 @@ Nightmare默认情况下会禁止window.confirm弹出，但你仍然可以监听
 
 #### .cookies.get(query)
 使用查询对象查询多个Cookie。如果设置了query.name，它将返回它找到的第一个cookie，否则它将查询一个cookie数组。如果没有设置`query.url`，它将使用当前的url。例子：
-```
+```javascript
 // get all google cookies that are secure
 // and have the path `/query`
 nightmare
@@ -436,7 +436,7 @@ nightmare
 
 #### .cookies.set(cookie)
 设置cookie。如果没有设置`cookie.url`，它将在当前url上设置cookie。例子：
-```
+```javascript
 nightmare
   .goto('http://google.com')
   .cookies.set({
@@ -458,7 +458,7 @@ nightmare
 
 #### .cookies.clear([name])
 清除所有网域的所有Cookie。
-```
+```javascript
 nightmare
   .goto('http://google.com')
   .cookies.clearAll()
@@ -474,7 +474,7 @@ nightmare
 Nightmare通过[switch](#switches)支持代理。  
 如果您的代理需要[身份验证](#authenticationuser-password)，则还需要身份验证调用。  
 以下示例不仅演示如何使用代理，您还可以运行它来测试您的代理连接是否正常工作：
-```
+```javascript
 var Nightmare = require('nightmare');
 
 var proxyNightmare = Nightmare({
@@ -514,7 +514,7 @@ regularNightmare
 
 #### Nightmare.action(name, [electronAction|electronNamespace], action|namespace)
 你可以添加自己的自定义动作到Nightmare的原型。例子：
-```
+```javascript
 Nightmare.action('size', function (done) {
   this.evaluate_now(function() {
     var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
@@ -538,7 +538,7 @@ Nightmare()
 简单记住：当有疑问时，使用`evaluate`，如果您要创建自定义操作，请使用`evaluate_now`。技术原因是因为我们的动作已经进入到队列中，我们现在正在运行它，我们不应该让`evaluate`函数重新进入到队列中。   
 我们还可以创建自定义命名空间。在内部我们像`nightmare.cookies.get`和`nightmare.cookies.set`这样做。如果您想要公开的操作包，这很有用，但它会使主要的Nightmare对象混乱。例如：
 
-```
+```javascript
 Nightmare.action('style', {
   background: function (done) {
     this.evaluate_now(function () {
@@ -559,7 +559,7 @@ nightmare()
 
 > You can also add custom Electron actions. The additional Electron action or namespace actions take `name`, `options`, `parent`, `win`, `renderer`, and `done`. Note the Electron action comes first, mirroring how `.evaluate()` works. For example:
 
-```
+```javascript
 Nightmare.action('clearCache',
   function(name, options, parent, win, renderer, done) {
     parent.respondTo('clearCache', function(done) {
@@ -586,7 +586,7 @@ Nightmare()
 
 #### Custom preload script
 如果你需要做一些自定义的事情，当你第一次加载窗口环境，您可以指定自定义预加载脚本。这展示了如何这么做：
-```
+```javascript
 const path = require('path');
 
 var nightmare = Nightmare({
@@ -597,7 +597,7 @@ var nightmare = Nightmare({
 })
 ```
 该脚本的唯一要求是，您需要提前这么做：
-```
+```javascript
 window.__nightmare = {};
 __nightmare.ipc = require('electron').ipcRenderer;
 ```
@@ -618,7 +618,7 @@ $ npm install --save nightmare
 #### Execution
 
 Nightmare是一个Node的模块，可以在Node.js脚本或模块中使用。这里有一个简单的脚本来打开网页：
-```
+```javascript
 var Nightmare = require('nightmare'),
   nightmare = Nightmare();
 
