@@ -13,16 +13,16 @@ Nightmare是一个高级别的自动化浏览器程序。
   
 非常感谢[@matthewmueller](https://github.com/matthewmueller)和[@rosshinkley](https://github.com/rosshinkley)他们对Nightmare的帮助。
   
-* [Examples](#Examples)
-* [API](#API)
-    * [Set up an instance（创建实例）](#Nightmare(options))
-    * [Interact with the page（与页面交互）](#Interact with the Page)
-    * [Extract from the page（从页面获取）](#Extract from the Page)
-    * [Cookies](#Cookies)
-    * [Proxies（代理）](#Proxies)
-    * [Extending Nightmare（扩展Nightmare）](#Extending Nightmare)
-* [Usage（用法）](#Usage)
-* [Debugging](#Debugging)
+* [Examples](#examples)
+* [API](#api)
+    * [Set up an instance（创建实例）](#nightmareoptions)
+    * [Interact with the page（与页面交互）](#interactwiththepage)
+    * [Extract from the page（从页面获取）](#extractfromthepage)
+    * [Cookies](#cookies)
+    * [Proxies（代理）](#proxies)
+    * [Extending Nightmare（扩展Nightmare）](#extendingnightmare)
+* [Usage（用法）](#usage)
+* [Debugging](#debugging)
 * [Supplementary Examples and Documentation（补充实例和文档）](https://github.com/rosshinkley/nightmare-examples)  
  
 
