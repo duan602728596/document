@@ -653,11 +653,11 @@ Breaking News, U.S., World, Weather, Entertainment & Video News - CNN.com
 
 ##### Debug Flags
 
-所有的nightmare的消息
-`DEBUG=nightmare*`
-只有actions
-`DEBUG=nightmare:actions*`
-只有log
+所有的nightmare的消息  
+`DEBUG=nightmare*`  
+只有actions  
+`DEBUG=nightmare:actions*`  
+只有log  
 `DEBUG=nightmare:log*`
 
 #### Tests
