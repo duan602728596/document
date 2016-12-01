@@ -107,7 +107,7 @@ Nightmare必须运行在NodeJS 4.x或更高版本上。
 ## API
 
 ### Nightmare(options)
-创建一个可在网络上浏览器的新的实例。这里记录了[可用的选项](https://github.com/electron/electron/blob/master/docs/api/browser-window.md#new-browserwindowoptions)，以及以下Nightmare的特定选项。
+创建一个可在网络上浏览器的新的实例。这里记录了[可用的选项](https://github.com/electron/electron/blob/master/docs/api/browser-window.md#new-browserwindowoptions)（[中文文档](https://github.com/electron/electron/blob/master/docs-translations/zh-CN/api/browser-window.md)），以及以下Nightmare的特定选项。
 
 ### Nightmare.version
 返回Nightmare的版本号。
