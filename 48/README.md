@@ -1,7 +1,7 @@
 # 工具下载地址
 
-| 名称                                      | 百度网盘分享地址                                                     |
-| ---                                       | ---                                                                  |
+| 名称 | 百度网盘分享地址 |
+| ---  | --- |
 | 48公演历史视频下载（python2版本）（32位） | [https://pan.baidu.com/s/1sle2wTf](https://pan.baidu.com/s/1sle2wTf) |
 | 48公演历史视频下载（python2版本）（64位） | [https://pan.baidu.com/s/1qYg6sqw](https://pan.baidu.com/s/1qYg6sqw) |
 | 48公演历史视频下载（python3版本）（32位） | [https://pan.baidu.com/s/1dEVxwWT](https://pan.baidu.com/s/1dEVxwWT) |
