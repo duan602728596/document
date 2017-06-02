@@ -10,5 +10,5 @@
 | 口袋48成员直播抓取和录播下载 （64位）     | [https://pan.baidu.com/s/1mhCSo8S](https://pan.baidu.com/s/1mhCSo8S) |
 | B站直播抓取@视频剪切（32位）              | [https://pan.baidu.com/s/1c1MBYgw](https://pan.baidu.com/s/1c1MBYgw) |
 | B站直播抓取@视频剪切（64位）              | [https://pan.baidu.com/s/1boSdIDh](https://pan.baidu.com/s/1boSdIDh) |
-| 微打赏监测（32位）                       | [https://pan.baidu.com/s/1i4ZZQWd](https://pan.baidu.com/s/1i4ZZQWd) |
-| 微打赏监测（64位）                       | [https://pan.baidu.com/s/1jIDn7fg](https://pan.baidu.com/s/1jIDn7fg) |
+| 微打赏监测（32位）                       | [https://pan.baidu.com/s/1kU972MN](https://pan.baidu.com/s/1kU972MN) |
+| 微打赏监测（64位）                       | [https://pan.baidu.com/s/1pLK4PeV](https://pan.baidu.com/s/1pLK4PeV) |
