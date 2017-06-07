@@ -12,3 +12,5 @@
 | B站直播抓取@视频剪切（64位）              | [https://pan.baidu.com/s/1boSdIDh](https://pan.baidu.com/s/1boSdIDh) |
 | 微打赏监控（32位）                       | [https://pan.baidu.com/s/1boFTDZx](https://pan.baidu.com/s/1boFTDZx) |
 | 微打赏监控（64位）                       | [https://pan.baidu.com/s/1qYyiyzq](https://pan.baidu.com/s/1qYyiyzq) |
+| 微打赏监控（排名版）（32位）              | [https://pan.baidu.com/s/1o8Npa1W](https://pan.baidu.com/s/1o8Npa1W) |
+| 微打赏监控（排名版）（64位）              | [https://pan.baidu.com/s/1kVysAXL](https://pan.baidu.com/s/1kVysAXL) |
