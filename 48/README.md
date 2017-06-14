@@ -12,7 +12,7 @@
 | B站直播抓取@视频剪切（64位）              | [https://pan.baidu.com/s/1boSdIDh](https://pan.baidu.com/s/1boSdIDh) |
 | 微打赏监控（32位）                       | [https://pan.baidu.com/s/1boFTDZx](https://pan.baidu.com/s/1boFTDZx) |
 | 微打赏监控（64位）                       | [https://pan.baidu.com/s/1qYyiyzq](https://pan.baidu.com/s/1qYyiyzq) |
-| 微打赏监控（排名版）（32位）              | [https://pan.baidu.com/s/1gfN3mL1](https://pan.baidu.com/s/1gfN3mL1) |
-| 微打赏监控（排名版）（64位）              | [https://pan.baidu.com/s/1hsxcPda](https://pan.baidu.com/s/1hsxcPda) |
-| 微打赏监控（PK版）（32位）               | [https://pan.baidu.com/s/1kVn3AYV](https://pan.baidu.com/s/1kVn3AYV) |
-| 微打赏监控（PK版）（64位）               | [https://pan.baidu.com/s/1boT1eXL](https://pan.baidu.com/s/1boT1eXL) |
+| 微打赏监控（排名版）（32位）              | [https://pan.baidu.com/s/1mhEVH6S](https://pan.baidu.com/s/1mhEVH6S) |
+| 微打赏监控（排名版）（64位）              | [https://pan.baidu.com/s/1nvHlMYH](https://pan.baidu.com/s/1nvHlMYH) |
+| 微打赏监控（PK版）（32位）               | [https://pan.baidu.com/s/1jIn5BSU](https://pan.baidu.com/s/1jIn5BSU) |
+| 微打赏监控（PK版）（64位）               | [https://pan.baidu.com/s/1geCyaER](https://pan.baidu.com/s/1geCyaER) |
