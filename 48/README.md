@@ -14,5 +14,5 @@
 | 微打赏监控（64位）                       | [https://pan.baidu.com/s/1qYyiyzq](https://pan.baidu.com/s/1qYyiyzq) |
 | 微打赏监控（排名版）（32位）              | [https://pan.baidu.com/s/1mhEVH6S](https://pan.baidu.com/s/1mhEVH6S) |
 | 微打赏监控（排名版）（64位）              | [https://pan.baidu.com/s/1nvHlMYH](https://pan.baidu.com/s/1nvHlMYH) |
-| 微打赏监控（PK版）（32位）               | [https://pan.baidu.com/s/1jIn5BSU](https://pan.baidu.com/s/1jIn5BSU) |
-| 微打赏监控（PK版）（64位）               | [https://pan.baidu.com/s/1geCyaER](https://pan.baidu.com/s/1geCyaER) |
+| 微打赏监控（PK版）（32位）               | [https://pan.baidu.com/s/1mhVQKGS](https://pan.baidu.com/s/1mhVQKGS) |
+| 微打赏监控（PK版）（64位）               | [https://pan.baidu.com/s/1nvlxLO1](https://pan.baidu.com/s/1nvlxLO1) |
