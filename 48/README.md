@@ -7,7 +7,7 @@
 
 ## 其他工具
 | 名称 | 百度网盘分享地址 |
-| ---  | --- |                                                                     |
+| ---  | --- |
 | 口袋48成员直播抓取和录播下载 （32位）     | [https://pan.baidu.com/s/1kU968pp](https://pan.baidu.com/s/1kU968pp) |
 | 口袋48成员直播抓取和录播下载 （64位）     | [https://pan.baidu.com/s/1mhCSo8S](https://pan.baidu.com/s/1mhCSo8S) |
 | B站直播抓取@视频剪切（32位）              | [https://pan.baidu.com/s/1c1MBYgw](https://pan.baidu.com/s/1c1MBYgw) |
