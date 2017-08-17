@@ -2,8 +2,8 @@
 
 ## 工具合集
 48工具，提供各种口袋48直播抓取、录播下载，B站直播抓取，视频剪切，微打赏数据导出Excel等功能。
-* 32位下载地址：[https://pan.baidu.com/s/1miHX0fQ](https://pan.baidu.com/s/1miHX0fQ)
-* 64位下载地址：[https://pan.baidu.com/s/1cJDIvc](https://pan.baidu.com/s/1cJDIvc)
+* 32位下载地址：[https://pan.baidu.com/s/1skVejoh](https://pan.baidu.com/s/1skVejoh)
+* 64位下载地址：[https://pan.baidu.com/s/1o76NNYU](https://pan.baidu.com/s/1o76NNYU)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
