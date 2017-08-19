@@ -1,6 +1,7 @@
 # 工具下载地址
 
 ## 48工具，常用功能合集
+> v0.0.6 修复了录播下载页面不能显示的问题
 > v0.0.5 修复了剪切视频的bug
 ### 提供功能
 1、口袋48直播抓取   
@@ -9,8 +10,8 @@
 4、视频剪切   
 5、微打赏数据导出Excel
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1hslBE8s](https://pan.baidu.com/s/1hslBE8s)
-* 64位下载地址：[https://pan.baidu.com/s/1hsuzijq](https://pan.baidu.com/s/1hsuzijq)
+* 32位下载地址：[https://pan.baidu.com/s/1i4DJIHv](https://pan.baidu.com/s/1i4DJIHv)
+* 64位下载地址：[https://pan.baidu.com/s/1dF6G83f](https://pan.baidu.com/s/1dF6G83f)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
