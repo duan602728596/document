@@ -12,8 +12,8 @@
 4、视频剪切   
 5、微打赏数据导出Excel
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1i49GTA9](https://pan.baidu.com/s/1i49GTA9)
-* 64位下载地址：[https://pan.baidu.com/s/1i4BIJNB](https://pan.baidu.com/s/1i4BIJNB)
+* 32位下载地址：[https://pan.baidu.com/s/1nuPhR1R](https://pan.baidu.com/s/1nuPhR1R)
+* 64位下载地址：[https://pan.baidu.com/s/1miGCDXu](https://pan.baidu.com/s/1miGCDXu)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
