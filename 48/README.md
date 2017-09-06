@@ -1,7 +1,8 @@
 # 工具下载地址
 
 ## 48工具，常用功能合集
-> v0.0.8 将所有表单改为使用antd的Form控件，并添加更详细的验证   
+> v0.0.9 增加直播地址显示；解决antd的affix组件的闪烁问题，更新antd版本；解决剪切视频功能的重复选择文件问题   
+> v0.0.8 将所有表单改为使用antd的Form控件，并添加更详细的验证   
 > v0.0.7 修改webpack配置，优化程序   
 > v0.0.6 修复了录播下载页面不能显示的问题   
 > v0.0.5 修复了剪切视频的bug
@@ -12,8 +13,8 @@
 4、视频剪切   
 5、微打赏数据导出Excel
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1nuPhR1R](https://pan.baidu.com/s/1nuPhR1R)
-* 64位下载地址：[https://pan.baidu.com/s/1miGCDXu](https://pan.baidu.com/s/1miGCDXu)
+* 32位下载地址：[https://pan.baidu.com/s/1i5vJYnj](https://pan.baidu.com/s/1i5vJYnj)
+* 64位下载地址：[https://pan.baidu.com/s/1c11d9Ws](https://pan.baidu.com/s/1c11d9Ws)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
