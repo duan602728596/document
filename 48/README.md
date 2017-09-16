@@ -1,21 +1,17 @@
 # 工具下载地址
 
 ## 48工具，常用功能合集
-> v0.0.10 reducer改为异步加载   
-> v0.0.9 增加直播地址显示；解决antd的affix组件的闪烁问题，更新antd版本；解决剪切视频功能的重复选择文件问题   
-> v0.0.8 将所有表单改为使用antd的Form控件，并添加更详细的验证   
-> v0.0.7 修改webpack配置，优化程序   
-> v0.0.6 修复了录播下载页面不能显示的问题   
-> v0.0.5 修复了剪切视频的bug
+> v0.1.0 增加了公演录播回放视频的下载功能   
 ### 提供功能
 1、口袋48直播抓取   
 2、口袋48录播下载   
 3、B站直播抓取   
 4、视频剪切   
 5、微打赏数据导出Excel
+6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1gfkYSLH](https://pan.baidu.com/s/1gfkYSLH)
-* 64位下载地址：[https://pan.baidu.com/s/1cpSL4a](https://pan.baidu.com/s/1cpSL4a)
+* 32位下载地址：[https://pan.baidu.com/s/1kUPm2xx](https://pan.baidu.com/s/1kUPm2xx)
+* 64位下载地址：[https://pan.baidu.com/s/1miLwTGO](https://pan.baidu.com/s/1miLwTGO)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
