@@ -1,7 +1,8 @@
 # 工具下载地址
 
 ## 48工具，常用功能合集
-> v0.1.0 增加了公演录播回放视频的下载功能   
+> v0.1.1 升级react到最新版本   
+> v0.1.0 增加了公演录播回放视频的下载功能   
 ### 提供功能
 1、口袋48直播抓取   
 2、口袋48录播下载   
@@ -10,8 +11,8 @@
 5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1qYiFcXQ](https://pan.baidu.com/s/1qYiFcXQ)
-* 64位下载地址：[https://pan.baidu.com/s/1bpbEc83](https://pan.baidu.com/s/1bpbEc83)
+* 32位下载地址：[https://pan.baidu.com/s/1bpIryv9](https://pan.baidu.com/s/1bpIryv9)
+* 64位下载地址：[https://pan.baidu.com/s/1gf2Alpx](https://pan.baidu.com/s/1gf2Alpx)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
