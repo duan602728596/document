@@ -7,11 +7,11 @@
 2、口袋48录播下载   
 3、B站直播抓取   
 4、视频剪切   
-5、微打赏数据导出Excel
+5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1kUPm2xx](https://pan.baidu.com/s/1kUPm2xx)
-* 64位下载地址：[https://pan.baidu.com/s/1miLwTGO](https://pan.baidu.com/s/1miLwTGO)
+* 32位下载地址：[https://pan.baidu.com/s/1qYiFcXQ](https://pan.baidu.com/s/1qYiFcXQ)
+* 64位下载地址：[https://pan.baidu.com/s/1bpbEc83](https://pan.baidu.com/s/1bpbEc83)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
