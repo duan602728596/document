@@ -1,6 +1,7 @@
 # 工具下载地址
 
 ## 48工具，常用功能合集
+> v0.1.2 优化录播搜索；公演视频下载格式从ts改为mp4；修改了视频剪切的一处bug    
 > v0.1.1 升级react到最新版本   
 > v0.1.0 增加了公演录播回放视频的下载功能   
 ### 提供功能
@@ -11,8 +12,8 @@
 5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1bpIryv9](https://pan.baidu.com/s/1bpIryv9)
-* 64位下载地址：[https://pan.baidu.com/s/1gf2Alpx](https://pan.baidu.com/s/1gf2Alpx)
+* 32位下载地址：[https://pan.baidu.com/s/1hrRuFuW](https://pan.baidu.com/s/1hrRuFuW)
+* 64位下载地址：[https://pan.baidu.com/s/1o81GmLG](https://pan.baidu.com/s/1o81GmLG)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
