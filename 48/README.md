@@ -13,7 +13,7 @@
 6、公演录播回放视频下载功能
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1hrRuFuW](https://pan.baidu.com/s/1hrRuFuW)
-* 64位下载地址：[https://pan.baidu.com/s/1o81GmLG](https://pan.baidu.com/s/1o81GmLG)
+* 64位下载地址：[https://pan.baidu.com/s/1dF5w6aP](https://pan.baidu.com/s/1dF5w6aP)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
