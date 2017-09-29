@@ -14,8 +14,8 @@
 5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1kVj5Xhd](https://pan.baidu.com/s/1kVj5Xhd)
-* 64位下载地址：[https://pan.baidu.com/s/1jIb08ia](https://pan.baidu.com/s/1jIb08ia)
+* 32位下载地址：[https://pan.baidu.com/s/1miMJ9Ra](https://pan.baidu.com/s/1miMJ9Ra)
+* 64位下载地址：[https://pan.baidu.com/s/1c1P11mg](https://pan.baidu.com/s/1c1P11mg)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
