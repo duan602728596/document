@@ -1,6 +1,7 @@
 # 工具下载地址
 
 ## 48工具，常用功能合集
+> v0.1.6 修改按钮，解决压缩报错问题   
 > v0.1.5 增加css压缩插件   
 > v0.1.4 更新react版本   
 > v0.1.3 更新react和babel的版本   
@@ -15,8 +16,8 @@
 5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1mhUByLM](https://pan.baidu.com/s/1mhUByLM)
-* 64位下载地址：[https://pan.baidu.com/s/1pKNdKUJ](https://pan.baidu.com/s/1pKNdKUJ)
+* 32位下载地址：[https://pan.baidu.com/s/1dFkyRJz](https://pan.baidu.com/s/1dFkyRJz)
+* 64位下载地址：[https://pan.baidu.com/s/1dE41xK1](https://pan.baidu.com/s/1dE41xK1)
 
 ## 微打赏监控
 实时监测微打赏，并将信息发送到群里。
