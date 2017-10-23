@@ -1,7 +1,6 @@
 # 工具下载地址
 
 ## 48工具，常用功能合集
-> v0.2.0 微打赏列表接口变更 
 ### 提供功能
 1、口袋48直播抓取   
 2、口袋48录播下载   
@@ -17,14 +16,14 @@
 ### 提供功能
 1、微打赏监听   
 2、口袋48直播监听   
-3、新成员欢迎提醒   
+3、新成员欢迎提醒（需要登录的QQ是管理员）   
 4、天气预报查询   
 5、图灵机器人   
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1o7JIAYA](https://pan.baidu.com/s/1o7JIAYA)
-* 64位下载地址：[https://pan.baidu.com/s/1o85LBR0](https://pan.baidu.com/s/1o85LBR0)
+* 32位下载地址：[https://pan.baidu.com/s/1jHNoGuE](https://pan.baidu.com/s/1jHNoGuE)
+* 64位下载地址：[https://pan.baidu.com/s/1gfs2Q4b](https://pan.baidu.com/s/1gfs2Q4b)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
