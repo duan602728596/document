@@ -22,8 +22,8 @@
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1jHNoGuE](https://pan.baidu.com/s/1jHNoGuE)
-* 64位下载地址：[https://pan.baidu.com/s/1gfs2Q4b](https://pan.baidu.com/s/1gfs2Q4b)
+* 32位下载地址：[https://pan.baidu.com/s/1pKVmbj1](https://pan.baidu.com/s/1pKVmbj1)
+* 64位下载地址：[https://pan.baidu.com/s/1bpi1Eer](https://pan.baidu.com/s/1bpi1Eer)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
