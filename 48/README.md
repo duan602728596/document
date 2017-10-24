@@ -23,7 +23,7 @@
 7、配置导入和导出
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1dF8fXuh](https://pan.baidu.com/s/1dF8fXuh)
-* 64位下载地址：[https://pan.baidu.com/s/1jH9H5mI](https://pan.baidu.com/s/1jH9H5mI)
+* 64位下载地址：[https://pan.baidu.com/s/1jIFx18U](https://pan.baidu.com/s/1jIFx18U)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
