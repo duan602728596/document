@@ -10,7 +10,7 @@
 6、公演录播回放视频下载功能
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1qXXREuo](https://pan.baidu.com/s/1qXXREuo)
-* 64位下载地址：[https://pan.baidu.com/s/1qY3FDHM](https://pan.baidu.com/s/1qY3FDHM)
+* 64位下载地址：[https://pan.baidu.com/s/1geC51Xx](https://pan.baidu.com/s/1geC51Xx)
 
 ## QQ机器人
 ### 提供功能
