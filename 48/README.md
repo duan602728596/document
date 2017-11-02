@@ -30,10 +30,10 @@
 
 | 名称 | 百度网盘分享地址 |
 | ---  | --- |
+| B站直播录制工具（32位）                  | [https://pan.baidu.com/s/1eSKpHXw](https://pan.baidu.com/s/1eSKpHXw) |
+| B站直播录制工具（64位）                  | [https://pan.baidu.com/s/1boP5yyV](https://pan.baidu.com/s/1boP5yyV) |
 | 口袋48成员直播抓取和录播下载 （32位）     | [https://pan.baidu.com/s/1kU968pp](https://pan.baidu.com/s/1kU968pp) |
 | 口袋48成员直播抓取和录播下载 （64位）     | [https://pan.baidu.com/s/1mhCSo8S](https://pan.baidu.com/s/1mhCSo8S) |
-| B站直播抓取@视频剪切（32位）              | [https://pan.baidu.com/s/1c1MBYgw](https://pan.baidu.com/s/1c1MBYgw) |
-| B站直播抓取@视频剪切（64位）              | [https://pan.baidu.com/s/1boSdIDh](https://pan.baidu.com/s/1boSdIDh) |
 | 48公演历史视频下载（python2版本）（32位） | [https://pan.baidu.com/s/1sle2wTf](https://pan.baidu.com/s/1sle2wTf) |
 | 48公演历史视频下载（python2版本）（64位） | [https://pan.baidu.com/s/1qYg6sqw](https://pan.baidu.com/s/1qYg6sqw) |
 | 48公演历史视频下载（python3版本）（32位） | [https://pan.baidu.com/s/1dEVxwWT](https://pan.baidu.com/s/1dEVxwWT) |
