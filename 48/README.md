@@ -9,8 +9,8 @@
 5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1dEWnmk5](https://pan.baidu.com/s/1dEWnmk5)
-* 64位下载地址：[https://pan.baidu.com/s/1bp74Uth](https://pan.baidu.com/s/1bp74Uth)
+* 32位下载地址：[https://pan.baidu.com/s/1qYWgUPe](https://pan.baidu.com/s/1qYWgUPe)
+* 64位下载地址：[https://pan.baidu.com/s/1qXAmeXe](https://pan.baidu.com/s/1qXAmeXe)
 
 ## QQ机器人
 ### 提供功能
@@ -22,16 +22,16 @@
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1o8eIrqi](https://pan.baidu.com/s/1o8eIrqi)
-* 64位下载地址：[https://pan.baidu.com/s/1eShG1oQ](https://pan.baidu.com/s/1eShG1oQ)
+* 32位下载地址：[https://pan.baidu.com/s/1geIBVRt](https://pan.baidu.com/s/1geIBVRt)
+* 64位下载地址：[https://pan.baidu.com/s/1bSV26E](https://pan.baidu.com/s/1bSV26E)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
 
 | 名称 | 百度网盘分享地址 |
 | ---  | --- |
-| B站直播录制工具（32位）                   | [https://pan.baidu.com/s/1i5y5rDj](https://pan.baidu.com/s/1i5y5rDj) |
-| B站直播录制工具（64位）                   | [https://pan.baidu.com/s/1qYUfcN6](https://pan.baidu.com/s/1qYUfcN6) |
+| B站直播录制工具（32位）                   | [https://pan.baidu.com/s/1jH4sHmQ](https://pan.baidu.com/s/1jH4sHmQ) |
+| B站直播录制工具（64位）                   | [https://pan.baidu.com/s/1qY3GE52](https://pan.baidu.com/s/1qY3GE52) |
 | 口袋48成员直播抓取和录播下载 （32位）     | [https://pan.baidu.com/s/1kU968pp](https://pan.baidu.com/s/1kU968pp) |
 | 口袋48成员直播抓取和录播下载 （64位）     | [https://pan.baidu.com/s/1mhCSo8S](https://pan.baidu.com/s/1mhCSo8S) |
 | 48公演历史视频下载（python2版本）（32位） | [https://pan.baidu.com/s/1sle2wTf](https://pan.baidu.com/s/1sle2wTf) |
