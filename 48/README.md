@@ -30,8 +30,8 @@
 
 | 名称 | 百度网盘分享地址 |
 | ---  | --- |
-| B站直播录制工具（32位）                   | [https://pan.baidu.com/s/1eR2yP94](https://pan.baidu.com/s/1eR2yP94) |
-| B站直播录制工具（64位）                   | [https://pan.baidu.com/s/1qXB7TwS](https://pan.baidu.com/s/1qXB7TwS) |
+| B站直播录制工具（32位）                   | [https://pan.baidu.com/s/1i5y5rDj](https://pan.baidu.com/s/1i5y5rDj) |
+| B站直播录制工具（64位）                   | [https://pan.baidu.com/s/1qYUfcN6](https://pan.baidu.com/s/1qYUfcN6) |
 | 口袋48成员直播抓取和录播下载 （32位）     | [https://pan.baidu.com/s/1kU968pp](https://pan.baidu.com/s/1kU968pp) |
 | 口袋48成员直播抓取和录播下载 （64位）     | [https://pan.baidu.com/s/1mhCSo8S](https://pan.baidu.com/s/1mhCSo8S) |
 | 48公演历史视频下载（python2版本）（32位） | [https://pan.baidu.com/s/1sle2wTf](https://pan.baidu.com/s/1sle2wTf) |
