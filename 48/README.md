@@ -9,8 +9,8 @@
 5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1qYWgUPe](https://pan.baidu.com/s/1qYWgUPe)
-* 64位下载地址：[https://pan.baidu.com/s/1qXAmeXe](https://pan.baidu.com/s/1qXAmeXe)
+* 32位下载地址：[https://pan.baidu.com/s/1kUWaVxt](https://pan.baidu.com/s/1kUWaVxt)
+* 64位下载地址：[https://pan.baidu.com/s/1i5QpArr](https://pan.baidu.com/s/1i5QpArr)
 
 ## QQ机器人
 ### 提供功能
@@ -22,8 +22,8 @@
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1geIBVRt](https://pan.baidu.com/s/1geIBVRt)
-* 64位下载地址：[https://pan.baidu.com/s/1bSV26E](https://pan.baidu.com/s/1bSV26E)
+* 32位下载地址：[https://pan.baidu.com/s/1jHSFodo](https://pan.baidu.com/s/1jHSFodo)
+* 64位下载地址：[https://pan.baidu.com/s/1kVCEtqJ](https://pan.baidu.com/s/1kVCEtqJ)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
