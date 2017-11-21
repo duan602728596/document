@@ -9,8 +9,8 @@
 5、微打赏数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1dF0FPEL](https://pan.baidu.com/s/1dF0FPEL)
-* 64位下载地址：[https://pan.baidu.com/s/1mi7nfJE](https://pan.baidu.com/s/1mi7nfJE)
+* 32位下载地址：[https://pan.baidu.com/s/1pKGu4aB](https://pan.baidu.com/s/1pKGu4aB)
+* 64位下载地址：[https://pan.baidu.com/s/1cEZuV0](https://pan.baidu.com/s/1cEZuV0)
 
 ## QQ机器人
 ### 提供功能
