@@ -14,14 +14,17 @@
 
 ## QQ机器人
 ### 提供功能
-1、微打赏监听   
+1、<del>微打赏监听</del>摩点项目监听   
 2、口袋48直播监听   
-3、新成员欢迎提醒（需要登录的QQ是管理员）   
+<del>3、新成员欢迎提醒（需要登录的QQ是管理员）</del>   
 4、天气预报查询   
 5、图灵机器人   
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
+* 32位下载地址：[https://pan.baidu.com/s/1nuO7DvN](https://pan.baidu.com/s/1nuO7DvN)
+* 64位下载地址：[https://pan.baidu.com/s/1boJ21HX](https://pan.baidu.com/s/1boJ21HX)
+### 旧版本地址（微打赏将要关闭，发起项目在摩点发起）
 * 32位下载地址：[https://pan.baidu.com/s/1eS8M1jG](https://pan.baidu.com/s/1eS8M1jG)
 * 64位下载地址：[https://pan.baidu.com/s/1o7LNl4A](https://pan.baidu.com/s/1o7LNl4A)
 
