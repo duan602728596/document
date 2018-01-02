@@ -6,9 +6,12 @@
 2、口袋48录播下载   
 3、B站直播抓取   
 4、视频剪切   
-5、微打赏数据导出Excel   
+5、<del>微打赏</del>摩点项目数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
+* 32位下载地址：[https://pan.baidu.com/s/1dFljwHz](https://pan.baidu.com/s/1dFljwHz)
+* 64位下载地址：[https://pan.baidu.com/s/1gfdDQCV](https://pan.baidu.com/s/1gfdDQCV)
+### 旧版本地址（微打赏将要关闭，发起项目在摩点发起）
 * 32位下载地址：[https://pan.baidu.com/s/1bpxxuu7](https://pan.baidu.com/s/1bpxxuu7)
 * 64位下载地址：[https://pan.baidu.com/s/1dE665rF](https://pan.baidu.com/s/1dE665rF)
 
