@@ -25,8 +25,8 @@
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1i53slKD](https://pan.baidu.com/s/1i53slKD)
-* 64位下载地址：[https://pan.baidu.com/s/1bEf8aa](https://pan.baidu.com/s/1bEf8aa)
+* 32位下载地址：[https://pan.baidu.com/s/1jIgVxwM](https://pan.baidu.com/s/1jIgVxwM)
+* 64位下载地址：[https://pan.baidu.com/s/1c2hNDHu](https://pan.baidu.com/s/1c2hNDHu)
 ### 旧版本地址（微打赏将要关闭，发起项目在摩点发起）
 * 32位下载地址：[https://pan.baidu.com/s/1eS8M1jG](https://pan.baidu.com/s/1eS8M1jG)
 * 64位下载地址：[https://pan.baidu.com/s/1o7LNl4A](https://pan.baidu.com/s/1o7LNl4A)
