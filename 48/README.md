@@ -31,6 +31,14 @@
 * 32位下载地址：[https://pan.baidu.com/s/1eS8M1jG](https://pan.baidu.com/s/1eS8M1jG)
 * 64位下载地址：[https://pan.baidu.com/s/1o7LNl4A](https://pan.baidu.com/s/1o7LNl4A)
 
+## 口袋48成员直播抓取+多开客户端
+### 提供功能
+1、成员直播录源   
+2、成员直播多开
+### 下载地址
+* 32位下载地址：[https://pan.baidu.com/s/1skRiskX](https://pan.baidu.com/s/1skRiskX)
+* 64位下载地址：[https://pan.baidu.com/s/1o7LOLOu](https://pan.baidu.com/s/1o7LOLOu)
+
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
 
