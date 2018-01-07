@@ -9,8 +9,8 @@
 5、<del>微打赏</del>摩点项目数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1dFljwHz](https://pan.baidu.com/s/1dFljwHz)
-* 64位下载地址：[https://pan.baidu.com/s/1gfdDQCV](https://pan.baidu.com/s/1gfdDQCV)
+* 32位下载地址：[https://pan.baidu.com/s/1i5CLVm9](https://pan.baidu.com/s/1i5CLVm9)
+* 64位下载地址：[https://pan.baidu.com/s/1qYLvcwG](https://pan.baidu.com/s/1qYLvcwG)
 ### 旧版本地址（微打赏将要关闭，发起项目在摩点发起）
 * 32位下载地址：[https://pan.baidu.com/s/1bpxxuu7](https://pan.baidu.com/s/1bpxxuu7)
 * 64位下载地址：[https://pan.baidu.com/s/1dE665rF](https://pan.baidu.com/s/1dE665rF)
@@ -36,8 +36,8 @@
 1、成员直播录源   
 2、成员直播多开
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1skRiskX](https://pan.baidu.com/s/1skRiskX)
-* 64位下载地址：[https://pan.baidu.com/s/1o7LOLOu](https://pan.baidu.com/s/1o7LOLOu)
+* 32位下载地址：[https://pan.baidu.com/s/1c148wnu](https://pan.baidu.com/s/1c148wnu)
+* 64位下载地址：[https://pan.baidu.com/s/1i4G90od](https://pan.baidu.com/s/1i4G90od)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
