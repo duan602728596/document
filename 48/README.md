@@ -9,8 +9,8 @@
 5、<del>微打赏</del>摩点项目数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1i5CLVm9](https://pan.baidu.com/s/1i5CLVm9)
-* 64位下载地址：[https://pan.baidu.com/s/1qYLvcwG](https://pan.baidu.com/s/1qYLvcwG)
+* 32位下载地址：[https://pan.baidu.com/s/1qZdc0GW](https://pan.baidu.com/s/1qZdc0GW)
+* 64位下载地址：[https://pan.baidu.com/s/1pMYAYKV](https://pan.baidu.com/s/1pMYAYKV)
 ### 旧版本地址（微打赏将要关闭，发起项目在摩点发起）
 * 32位下载地址：[https://pan.baidu.com/s/1bpxxuu7](https://pan.baidu.com/s/1bpxxuu7)
 * 64位下载地址：[https://pan.baidu.com/s/1dE665rF](https://pan.baidu.com/s/1dE665rF)
