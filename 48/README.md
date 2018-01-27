@@ -6,7 +6,7 @@
 2、口袋48录播下载   
 3、B站直播抓取   
 4、视频剪切   
-5、<del>微打赏</del>摩点项目数据导出Excel   
+5、摩点项目数据导出Excel   
 6、公演录播回放视频下载功能
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1gg5f85d](https://pan.baidu.com/s/1gg5f85d)
@@ -14,16 +14,16 @@
 
 ## QQ机器人
 ### 提供功能
-1、<del>微打赏监听</del>摩点项目监听   
+1、摩点项目监听   
 2、口袋48直播监听   
-<del>3、新成员欢迎提醒（需要登录的QQ是管理员）</del>   
+3、成员房间信息监听   
 4、天气预报查询   
 5、图灵机器人   
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1o9S7K2u](https://pan.baidu.com/s/1o9S7K2u)
-* 64位下载地址：[https://pan.baidu.com/s/1i7d7rVn](https://pan.baidu.com/s/1i7d7rVn)
+* 32位下载地址：[https://pan.baidu.com/s/1pMQ4dCZ](https://pan.baidu.com/s/1pMQ4dCZ)
+* 64位下载地址：[https://pan.baidu.com/s/1nwyhQIl](https://pan.baidu.com/s/1nwyhQIl)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
