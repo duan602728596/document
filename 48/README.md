@@ -12,7 +12,7 @@
 8、视频合并功能
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1gg5f85d](https://pan.baidu.com/s/1gg5f85d)
-* 64位下载地址：[https://pan.baidu.com/s/1sm4fmVV](https://pan.baidu.com/s/1sm4fmVV)
+* 64位下载地址：[https://pan.baidu.com/s/1snp2825](https://pan.baidu.com/s/1snp2825)
 
 ## QQ群机器人
 ### 提供功能
@@ -25,7 +25,7 @@
 7、自定义命令   
 8、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1oAihfb8](https://pan.baidu.com/s/1oAihfb8)
+* 32位下载地址：[https://pan.baidu.com/s/1htoiLfu](https://pan.baidu.com/s/1htoiLfu)
 * 64位下载地址：[https://pan.baidu.com/s/1kWRsoQz](https://pan.baidu.com/s/1kWRsoQz)
 
 ## 口袋48成员直播抓取+多开客户端
