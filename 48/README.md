@@ -16,11 +16,12 @@
 ### 提供功能
 1、摩点项目监听   
 2、口袋48直播监听   
-3、成员房间信息监听   
-4、天气预报查询   
-5、图灵机器人   
-6、自定义命令   
-7、配置导入和导出
+3、微博监听   
+4、成员房间信息监听   
+5、天气预报查询   
+6、图灵机器人   
+7、自定义命令   
+8、配置导入和导出
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1oAihfb8](https://pan.baidu.com/s/1oAihfb8)
 * 64位下载地址：[https://pan.baidu.com/s/1kWRsoQz](https://pan.baidu.com/s/1kWRsoQz)
