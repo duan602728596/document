@@ -12,7 +12,7 @@
 * 32位下载地址：[https://pan.baidu.com/s/1gg5f85d](https://pan.baidu.com/s/1gg5f85d)
 * 64位下载地址：[https://pan.baidu.com/s/1sm4fmVV](https://pan.baidu.com/s/1sm4fmVV)
 
-## QQ机器人
+## QQ群机器人
 ### 提供功能
 1、摩点项目监听   
 2、口袋48直播监听   
@@ -22,8 +22,8 @@
 6、自定义命令   
 7、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1jIU1P3o](https://pan.baidu.com/s/1jIU1P3o)
-* 64位下载地址：[https://pan.baidu.com/s/1o98Vmjg](https://pan.baidu.com/s/1o98Vmjg)
+* 32位下载地址：[https://pan.baidu.com/s/1oAihfb8](https://pan.baidu.com/s/1oAihfb8)
+* 64位下载地址：[https://pan.baidu.com/s/1kWRsoQz](https://pan.baidu.com/s/1kWRsoQz)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
