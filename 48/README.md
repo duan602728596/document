@@ -7,7 +7,9 @@
 3、B站直播抓取   
 4、视频剪切   
 5、摩点项目数据导出Excel   
-6、公演录播回放视频下载功能
+6、官方源录制   
+7、公演录播回放视频下载功能   
+8、视频合并功能
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1gg5f85d](https://pan.baidu.com/s/1gg5f85d)
 * 64位下载地址：[https://pan.baidu.com/s/1sm4fmVV](https://pan.baidu.com/s/1sm4fmVV)
