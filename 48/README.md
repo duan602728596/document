@@ -25,8 +25,8 @@
 7、自定义命令   
 8、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1o9Pks5O](https://pan.baidu.com/s/1o9Pks5O)
-* 64位下载地址：[https://pan.baidu.com/s/1db3Nky](https://pan.baidu.com/s/1db3Nky)
+* 32位下载地址：[https://pan.baidu.com/s/1oAdx4IA](https://pan.baidu.com/s/1oAdx4IA)
+* 64位下载地址：[https://pan.baidu.com/s/1dkXphW](https://pan.baidu.com/s/1dkXphW)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
