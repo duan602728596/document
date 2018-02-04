@@ -20,13 +20,14 @@
 2、口袋48直播监听   
 3、成员房间信息监听   
 4、微博监听   
-5、天气预报查询   
-6、图灵机器人   
-7、自定义命令   
-8、配置导入和导出
+5、定时喊话   
+6、天气预报查询   
+7、图灵机器人   
+8、自定义命令   
+9、配置导入和导出
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1racDJuk](https://pan.baidu.com/s/1racDJuk)
-* 64位下载地址：[https://pan.baidu.com/s/1pMEtpjX](https://pan.baidu.com/s/1pMEtpjX)
+* 32位下载地址：[https://pan.baidu.com/s/1kWJRgph](https://pan.baidu.com/s/1kWJRgph)
+* 64位下载地址：[https://pan.baidu.com/s/1mkf3Lig](https://pan.baidu.com/s/1mkf3Lig)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
