@@ -25,7 +25,10 @@
 7、图灵机器人   
 8、自定义命令   
 9、配置导入和导出
-### 下载地址
+### v2版（基于酷Q）下载地址
+* 32位下载地址：[https://pan.baidu.com/s/1nxaI5Xf](https://pan.baidu.com/s/1nxaI5Xf)
+* 64位下载地址：[https://pan.baidu.com/s/1sneEhaP](https://pan.baidu.com/s/1sneEhaP)
+### v1版（基于SmartQQ）下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1kWJRgph](https://pan.baidu.com/s/1kWJRgph)
 * 64位下载地址：[https://pan.baidu.com/s/1mkf3Lig](https://pan.baidu.com/s/1mkf3Lig)
 
