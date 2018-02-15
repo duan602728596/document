@@ -29,8 +29,8 @@
 * 32位下载地址：[https://pan.baidu.com/s/1gggKjaN](https://pan.baidu.com/s/1gggKjaN)
 * 64位下载地址：[https://pan.baidu.com/s/1gfRliaJ](https://pan.baidu.com/s/1gfRliaJ)
 ### v1版（基于SmartQQ）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1kWJRgph](https://pan.baidu.com/s/1kWJRgph)
-* 64位下载地址：[https://pan.baidu.com/s/1mkf3Lig](https://pan.baidu.com/s/1mkf3Lig)
+* 32位下载地址：[https://pan.baidu.com/s/1hujanys](https://pan.baidu.com/s/1hujanys)
+* 64位下载地址：[https://pan.baidu.com/s/1dzlq0m](https://pan.baidu.com/s/1dzlq0m)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
