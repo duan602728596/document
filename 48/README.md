@@ -37,16 +37,16 @@
 1、成员直播录源   
 2、成员直播多开
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1nxoUenf](https://pan.baidu.com/s/1nxoUenf)
-* 64位下载地址：[https://pan.baidu.com/s/1c3ONZUg](https://pan.baidu.com/s/1c3ONZUg)
+* 32位下载地址：[https://pan.baidu.com/s/1pM4RpyF](https://pan.baidu.com/s/1pM4RpyF)
+* 64位下载地址：[https://pan.baidu.com/s/1jJfYXi2](https://pan.baidu.com/s/1jJfYXi2)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
 
 | 名称 | 百度网盘分享地址 |
 | ---  | --- |
-| B站直播录制工具（32位）               | [https://pan.baidu.com/s/1jH4sHmQ](https://pan.baidu.com/s/1jH4sHmQ) |
-| B站直播录制工具（64位）               | [https://pan.baidu.com/s/1qY3GE52](https://pan.baidu.com/s/1qY3GE52) |
+| B站直播录制工具（32位）               | [https://pan.baidu.com/s/1dCJqTw](https://pan.baidu.com/s/1dCJqTw) |
+| B站直播录制工具（64位）               | [https://pan.baidu.com/s/1jJLWyou](https://pan.baidu.com/s/1jJLWyou) |
 | 48G公演录源、视频下载（32位）         | [https://pan.baidu.com/s/1qY4x0mS](https://pan.baidu.com/s/1qY4x0mS) |
 | 48G公演录源、视频下载（64位）         | [https://pan.baidu.com/s/1miqsVvM](https://pan.baidu.com/s/1miqsVvM) |
 | 口袋48成员直播抓取和录播下载 （32位） | [https://pan.baidu.com/s/1kU968pp](https://pan.baidu.com/s/1kU968pp) |
