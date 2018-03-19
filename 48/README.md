@@ -11,8 +11,8 @@
 7、公演录播回放视频下载功能   
 8、视频合并功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1PiFIKIzOo-v1PyVkMtkDjA](https://pan.baidu.com/s/1PiFIKIzOo-v1PyVkMtkDjA)
-* 64位下载地址：[https://pan.baidu.com/s/14B0KvuDbmQvMqgxdSew_MA](https://pan.baidu.com/s/14B0KvuDbmQvMqgxdSew_MA)
+* 32位下载地址：[https://pan.baidu.com/s/1vm_-92P0tSw0BswlEjU-QQ](https://pan.baidu.com/s/1vm_-92P0tSw0BswlEjU-QQ)
+* 64位下载地址：[https://pan.baidu.com/s/1_qr4c_8joVhLgR5V3XmiuQ](https://pan.baidu.com/s/1_qr4c_8joVhLgR5V3XmiuQ)
 
 ## QQ群机器人
 ### 提供功能
