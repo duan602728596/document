@@ -47,7 +47,7 @@
 | ---  | --- |
 | B站直播录制工具（32位）               | [https://pan.baidu.com/s/1dCJqTw](https://pan.baidu.com/s/1dCJqTw) |
 | B站直播录制工具（64位）               | [https://pan.baidu.com/s/1jJLWyou](https://pan.baidu.com/s/1jJLWyou) |
-| 48G公演录源、视频下载（32位）         | [https://pan.baidu.com/s/1qY4x0mS](https://pan.baidu.com/s/1qY4x0mS) |
-| 48G公演录源、视频下载（64位）         | [https://pan.baidu.com/s/1miqsVvM](https://pan.baidu.com/s/1miqsVvM) |
+| 48G公演录源、视频下载（32位）         | [https://pan.baidu.com/s/1N3fG00XeckdhCjX6wSX-Nw](https://pan.baidu.com/s/1N3fG00XeckdhCjX6wSX-Nw) |
+| 48G公演录源、视频下载（64位）         | [https://pan.baidu.com/s/1ltE9b6DNc2EiLM06UYry0A](https://pan.baidu.com/s/1ltE9b6DNc2EiLM06UYry0A) |
 | 口袋48成员直播抓取和录播下载 （32位） | [https://pan.baidu.com/s/1kU968pp](https://pan.baidu.com/s/1kU968pp) |
 | 口袋48成员直播抓取和录播下载 （64位） | [https://pan.baidu.com/s/1mhCSo8S](https://pan.baidu.com/s/1mhCSo8S) |
