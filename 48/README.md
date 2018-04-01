@@ -31,6 +31,9 @@
 ### v1版（基于SmartQQ）下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1KcegET2Mfmv1K3msYmim3Q](https://pan.baidu.com/s/1KcegET2Mfmv1K3msYmim3Q)
 * 64位下载地址：[https://pan.baidu.com/s/1BqayX-jydjmdoeJuz8-MlQ](https://pan.baidu.com/s/1BqayX-jydjmdoeJuz8-MlQ)
+### v2版（基于酷Q，带抽卡功能）下载地址
+* 服务器代码地址：[https://github.com/duan602728596/chouka-server](https://github.com/duan602728596/chouka-server)
+* 32位下载地址：[https://pan.baidu.com/s/1I7sScUr7-2VbaKLGMIuWkw](https://pan.baidu.com/s/1I7sScUr7-2VbaKLGMIuWkw)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
