@@ -29,8 +29,8 @@
 * 32位下载地址：[https://pan.baidu.com/s/1sIui_dvbN0ozKS8_cRnKBA](https://pan.baidu.com/s/1sIui_dvbN0ozKS8_cRnKBA)
 * 64位下载地址：[https://pan.baidu.com/s/1hNiLzDNYtGUp970Zh8nPpQ](https://pan.baidu.com/s/1hNiLzDNYtGUp970Zh8nPpQ)
 ### v1版（基于SmartQQ）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1KcegET2Mfmv1K3msYmim3Q](https://pan.baidu.com/s/1KcegET2Mfmv1K3msYmim3Q)
-* 64位下载地址：[https://pan.baidu.com/s/1BqayX-jydjmdoeJuz8-MlQ](https://pan.baidu.com/s/1BqayX-jydjmdoeJuz8-MlQ)
+* 32位下载地址：[https://pan.baidu.com/s/1fiej2STGXn3aKTlTHvAa2Q](https://pan.baidu.com/s/1fiej2STGXn3aKTlTHvAa2Q)
+* 64位下载地址：[https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA](https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA)
 ### v2版（基于酷Q，带抽卡功能）下载地址
 * 服务器代码地址：[https://github.com/duan602728596/chouka-server](https://github.com/duan602728596/chouka-server)
 * 32位下载地址：[https://pan.baidu.com/s/1ld-Fidj0xp09PZ0Ni_idKg](https://pan.baidu.com/s/1ld-Fidj0xp09PZ0Ni_idKg)
