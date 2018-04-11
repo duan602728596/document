@@ -1,5 +1,12 @@
 # 工具下载地址
 
+## 微博助手
+### 提供功能
+1、微博超级话题自动一键签到
+### 下载地址
+* IOS：[https://pan.baidu.com/s/1rz3Tewp2WiGiWZYEMfCAZQ](https://pan.baidu.com/s/1rz3Tewp2WiGiWZYEMfCAZQ)（IOS只有越狱版本）
+* 安卓：[https://pan.baidu.com/s/1mNu__v1VT8oyKNiBm8S58Q](https://pan.baidu.com/s/1mNu__v1VT8oyKNiBm8S58Q)
+
 ## 48工具，常用功能合集
 ### 提供功能
 1、口袋48直播抓取   
