@@ -3,9 +3,11 @@
 ## 微博助手APP
 ### 提供功能
 1、微博超级话题自动一键签到
+### 注意
+验证码还未破解，暂时不支持验证码登录
 ### 下载地址
-* IOS：[https://pan.baidu.com/s/1rz3Tewp2WiGiWZYEMfCAZQ](https://pan.baidu.com/s/1rz3Tewp2WiGiWZYEMfCAZQ)（IOS只有越狱版本）
-* 安卓：[https://pan.baidu.com/s/1mNu__v1VT8oyKNiBm8S58Q](https://pan.baidu.com/s/1mNu__v1VT8oyKNiBm8S58Q)
+* IOS：[https://pan.baidu.com/s/1XmA6qKM8aqzHUR9bM4POsA](https://pan.baidu.com/s/1XmA6qKM8aqzHUR9bM4POsA)（IOS只有越狱版本）
+* 安卓：[https://pan.baidu.com/s/1i-cwn3BfPBi34N0_5fYreA](https://pan.baidu.com/s/1i-cwn3BfPBi34N0_5fYreA)
 
 ## 48工具，常用功能合集
 ### 提供功能
