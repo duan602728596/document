@@ -7,8 +7,8 @@
 ### 注意
 验证码还未破解，暂时不支持验证码登录
 ### 下载地址
-* IOS（越狱版本）：[https://pan.baidu.com/s/1PK9YEjXrP7yi7Pje3s5P2g](https://pan.baidu.com/s/1PK9YEjXrP7yi7Pje3s5P2g)
-* 安卓：[https://pan.baidu.com/s/1Vct5X29LORlrGwfXSuVXug](https://pan.baidu.com/s/1Vct5X29LORlrGwfXSuVXug)
+* IOS（越狱版本）：[https://pan.baidu.com/s/1mzvNIW24mE6n-akB_DFQ6Q](https://pan.baidu.com/s/1mzvNIW24mE6n-akB_DFQ6Q)
+* 安卓：[https://pan.baidu.com/s/1zhfaVSeF7ZfXQUroA603Qg](https://pan.baidu.com/s/1zhfaVSeF7ZfXQUroA603Qg)
 
 ## 48工具，常用功能合集
 ### 提供功能
