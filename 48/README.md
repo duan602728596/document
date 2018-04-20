@@ -4,8 +4,6 @@
 ### 提供功能
 1、登录支持手势验证（四宫格）   
 2、微博超级话题自动一键签到
-### 注意
-验证码还未破解，暂时不支持验证码登录
 ### 下载地址
 * IOS（越狱版本）：[https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg](https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg)
 * 安卓：[https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew](https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew)
@@ -43,7 +41,7 @@
 * 64位下载地址：[https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA](https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA)
 ### v2版（基于酷Q，带抽卡功能）下载地址
 * 服务器代码地址：[https://pan.baidu.com/s/1hrncKzAQTGwT1OMDbF4HUQ](https://pan.baidu.com/s/1hrncKzAQTGwT1OMDbF4HUQ)
-* 32位下载地址：[https://pan.baidu.com/s/1BzNUUOo4plx-NCBiYFKjfg](https://pan.baidu.com/s/1BzNUUOo4plx-NCBiYFKjfg)
+* 32位下载地址：[https://pan.baidu.com/s/1tqvpabYhQWM3I3792oqDNQ](https://pan.baidu.com/s/1tqvpabYhQWM3I3792oqDNQ)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
