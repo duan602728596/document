@@ -41,7 +41,7 @@
 * 64位下载地址：[https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA](https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA)
 ### v2版（基于酷Q，带抽卡功能）下载地址
 * 服务器代码地址：[https://pan.baidu.com/s/1hrncKzAQTGwT1OMDbF4HUQ](https://pan.baidu.com/s/1hrncKzAQTGwT1OMDbF4HUQ)
-* 32位下载地址：[https://pan.baidu.com/s/1tqvpabYhQWM3I3792oqDNQ](https://pan.baidu.com/s/1tqvpabYhQWM3I3792oqDNQ)
+* 32位下载地址：[https://pan.baidu.com/s/1qmg3SSfU46-f5gaH2B-UFA](https://pan.baidu.com/s/1qmg3SSfU46-f5gaH2B-UFA)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
