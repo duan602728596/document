@@ -1,13 +1,5 @@
 # 工具下载地址
 
-## 微博助手APP
-### 提供功能
-1、登录支持手势验证（四宫格）   
-2、微博超级话题自动一键签到
-### 下载地址
-* IOS（越狱版本）：[https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg](https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg)
-* 安卓：[https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew](https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew)
-
 ## 48工具，常用功能合集
 ### 提供功能
 1、口袋48直播抓取   
@@ -34,14 +26,14 @@
 8、自定义命令   
 9、配置导入和导出
 ### v2版（基于酷Q）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1UMw9IcwZgAb_cXtYSLaq9A](https://pan.baidu.com/s/1UMw9IcwZgAb_cXtYSLaq9A)
-* 64位下载地址：[https://pan.baidu.com/s/1L6AU5lca-rZHYCzdZr1Hlg](https://pan.baidu.com/s/1L6AU5lca-rZHYCzdZr1Hlg)
+* 32位下载地址：[https://pan.baidu.com/s/1dndG4rIglzacTsdCJ7RKPg](https://pan.baidu.com/s/1dndG4rIglzacTsdCJ7RKPg)
+* 64位下载地址：[https://pan.baidu.com/s/1L9zYxyZq6gqBSvAlPzKF7g](https://pan.baidu.com/s/1L9zYxyZq6gqBSvAlPzKF7g)
 ### v1版（基于SmartQQ）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1fiej2STGXn3aKTlTHvAa2Q](https://pan.baidu.com/s/1fiej2STGXn3aKTlTHvAa2Q)
-* 64位下载地址：[https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA](https://pan.baidu.com/s/1F2tFIITC8bAL2rr2mTDXxA)
+* 32位下载地址：[https://pan.baidu.com/s/1Amg1s88J2W1MGBTKq2-2tQ](https://pan.baidu.com/s/1Amg1s88J2W1MGBTKq2-2tQ)
+* 64位下载地址：[https://pan.baidu.com/s/1cbqNPUm5iD_Ts1p8XjcQuw](https://pan.baidu.com/s/1cbqNPUm5iD_Ts1p8XjcQuw)
 ### v2版（基于酷Q，带抽卡功能）下载地址
 * 服务器代码地址：[https://github.com/duan602728596/chouka-server](https://github.com/duan602728596/chouka-server)
-* 32位下载地址：[https://pan.baidu.com/s/1qmg3SSfU46-f5gaH2B-UFA](https://pan.baidu.com/s/1qmg3SSfU46-f5gaH2B-UFA)
+* 32位下载地址：[https://pan.baidu.com/s/1I8ww3d4ch6YX-FnyCp3RWw](https://pan.baidu.com/s/1I8ww3d4ch6YX-FnyCp3RWw)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
@@ -50,6 +42,14 @@
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1pM4RpyF](https://pan.baidu.com/s/1pM4RpyF)
 * 64位下载地址：[https://pan.baidu.com/s/1jJfYXi2](https://pan.baidu.com/s/1jJfYXi2)
+
+## 微博助手APP
+### 提供功能
+1、登录支持手势验证（四宫格）   
+2、微博超级话题自动一键签到
+### 下载地址
+* IOS（越狱版本）：[https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg](https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg)
+* 安卓：[https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew](https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
