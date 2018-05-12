@@ -48,8 +48,8 @@
 1、登录支持手势验证（四宫格）   
 2、微博超级话题自动一键签到
 ### 下载地址
-* IOS（越狱版本）：[https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg](https://pan.baidu.com/s/15YUXXZP41t-z1MFbOS-MKg)
-* 安卓：[https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew](https://pan.baidu.com/s/1vHW-vFdHZcemoDSinzN_ew)
+* IOS（越狱版本）：[https://pan.baidu.com/s/1Zbuy2C7G292hGo1vq9Xh2g](https://pan.baidu.com/s/1Zbuy2C7G292hGo1vq9Xh2g)
+* 安卓：[https://pan.baidu.com/s/17RJWxgrBnKJwtvu6zhBytA](https://pan.baidu.com/s/17RJWxgrBnKJwtvu6zhBytA)
 
 ## 视频工具
 口袋48直播抓取、录播下载，B站直播抓取，视频剪切。
