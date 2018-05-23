@@ -41,16 +41,16 @@
 2、登录支持手势验证（四宫格）   
 3、微博超级话题自动一键签到
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1pM4RpyF](https://pan.baidu.com/s/1pM4RpyF)
-* 64位下载地址：[https://pan.baidu.com/s/1jJfYXi2](https://pan.baidu.com/s/1jJfYXi2)
+* 32位下载地址：[https://pan.baidu.com/s/11a4cJx5LuFGJbtCpy5gRkg](https://pan.baidu.com/s/11a4cJx5LuFGJbtCpy5gRkg)
+* 64位下载地址：[https://pan.baidu.com/s/1pWXH4ANs_7Ug_JJ-GkBPpQ](https://pan.baidu.com/s/1pWXH4ANs_7Ug_JJ-GkBPpQ)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
 1、成员直播录源   
 2、成员直播多开
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/11a4cJx5LuFGJbtCpy5gRkg](https://pan.baidu.com/s/11a4cJx5LuFGJbtCpy5gRkg)
-* 64位下载地址：[https://pan.baidu.com/s/1pWXH4ANs_7Ug_JJ-GkBPpQ](https://pan.baidu.com/s/1pWXH4ANs_7Ug_JJ-GkBPpQ)
+* 32位下载地址：[https://pan.baidu.com/s/1pM4RpyF](https://pan.baidu.com/s/1pM4RpyF)
+* 64位下载地址：[https://pan.baidu.com/s/1jJfYXi2](https://pan.baidu.com/s/1jJfYXi2)
 
 ## 微博助手APP
 ### 提供功能
