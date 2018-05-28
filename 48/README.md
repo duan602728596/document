@@ -39,10 +39,11 @@
 ### 提供功能
 1、微博多账号登录   
 2、登录支持手势验证（四宫格）   
-3、微博超级话题自动一键签到
+3、微博超级话题自动一键签到   
+4、自动点赞
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1hQZKTllmiZj_86Ji3cNhOw](https://pan.baidu.com/s/1hQZKTllmiZj_86Ji3cNhOw)
-* 64位下载地址：[https://pan.baidu.com/s/1bBn3esakJ5dgXptUDxQPhA](https://pan.baidu.com/s/1bBn3esakJ5dgXptUDxQPhA)
+* 32位下载地址：[hhttps://pan.baidu.com/s/1Z3T2cHk0A8yc5ac8INSsbA](https://pan.baidu.com/s/1Z3T2cHk0A8yc5ac8INSsbA)
+* 64位下载地址：[https://pan.baidu.com/s/1DUauOtQm3U4B1ZP0qTgKbg](https://pan.baidu.com/s/1DUauOtQm3U4B1ZP0qTgKbg)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
