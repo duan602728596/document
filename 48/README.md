@@ -45,6 +45,7 @@
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1Z3T2cHk0A8yc5ac8INSsbA](https://pan.baidu.com/s/1Z3T2cHk0A8yc5ac8INSsbA)
 * 64位下载地址：[https://pan.baidu.com/s/1DUauOtQm3U4B1ZP0qTgKbg](https://pan.baidu.com/s/1DUauOtQm3U4B1ZP0qTgKbg)
+* mac下载地址：[https://pan.baidu.com/s/11g53PCL6pxrZLkUshhq17g](https://pan.baidu.com/s/11g53PCL6pxrZLkUshhq17g)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
