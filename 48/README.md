@@ -27,14 +27,14 @@
 8、自定义命令   
 9、配置导入和导出
 ### v2版（基于酷Q）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1dndG4rIglzacTsdCJ7RKPg](https://pan.baidu.com/s/1dndG4rIglzacTsdCJ7RKPg)
-* 64位下载地址：[https://pan.baidu.com/s/1L9zYxyZq6gqBSvAlPzKF7g](https://pan.baidu.com/s/1L9zYxyZq6gqBSvAlPzKF7g)
+* 32位下载地址：[https://pan.baidu.com/s/1UK0uMCPxu9b2uMQQmfv2GQ](https://pan.baidu.com/s/1UK0uMCPxu9b2uMQQmfv2GQ)
+* 64位下载地址：[https://pan.baidu.com/s/1I3RWA8YA6h9rWHE4ass9EQ](https://pan.baidu.com/s/1I3RWA8YA6h9rWHE4ass9EQ)
 ### v1版（基于SmartQQ）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1Amg1s88J2W1MGBTKq2-2tQ](https://pan.baidu.com/s/1Amg1s88J2W1MGBTKq2-2tQ)
-* 64位下载地址：[https://pan.baidu.com/s/1cbqNPUm5iD_Ts1p8XjcQuw](https://pan.baidu.com/s/1cbqNPUm5iD_Ts1p8XjcQuw)
+* 32位下载地址：[https://pan.baidu.com/s/12GxqzDfTw6dhayWjC6j70A](https://pan.baidu.com/s/12GxqzDfTw6dhayWjC6j70A)
+* 64位下载地址：[https://pan.baidu.com/s/1GplHnrG9ipXgrHV1WV6Axg](https://pan.baidu.com/s/1GplHnrG9ipXgrHV1WV6Axg)
 ### v2版（基于酷Q，带抽卡功能）下载地址
 * 服务器代码地址：[https://github.com/duan602728596/chouka-server](https://github.com/duan602728596/chouka-server)
-* 32位下载地址：[https://pan.baidu.com/s/1I8ww3d4ch6YX-FnyCp3RWw](https://pan.baidu.com/s/1I8ww3d4ch6YX-FnyCp3RWw)
+* 32位下载地址：[https://pan.baidu.com/s/1-MP7AaqZD4Dq9Qigern7NA](https://pan.baidu.com/s/1-MP7AaqZD4Dq9Qigern7NA)
 
 ## 微博超话自动签到工具
 ### 提供功能
