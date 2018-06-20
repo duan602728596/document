@@ -2,8 +2,8 @@
 
 ## 48工具，常用功能合集
 ### 提供功能
-1、口袋48直播抓取   
-2、口袋48录播下载   
+1、口袋48直播抓取和观看   
+2、口袋48录播下载和观看   
 3、B站直播抓取   
 4、视频剪切   
 5、摩点项目数据导出Excel   
@@ -13,7 +13,7 @@
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1N_UPkNAgjxVYQSaiwZMB5w](https://pan.baidu.com/s/1N_UPkNAgjxVYQSaiwZMB5w)
 * 64位下载地址：[https://pan.baidu.com/s/1vISfEpxUjWljf7XVhAv6qw](https://pan.baidu.com/s/1vISfEpxUjWljf7XVhAv6qw)
-* mac下载地址：[https://pan.baidu.com/s/1QHh8ZuX55LbUWLtV47FQpA](https://pan.baidu.com/s/1QHh8ZuX55LbUWLtV47FQpA)
+* mac下载地址：[https://pan.baidu.com/s/1p2xbladYO1gM7c5POEEe9Q](https://pan.baidu.com/s/1p2xbladYO1gM7c5POEEe9Q)
 
 ## QQ群机器人
 ### 提供功能
