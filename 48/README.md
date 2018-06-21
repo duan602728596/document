@@ -9,11 +9,12 @@
 5、摩点项目数据导出Excel   
 6、官方源录制   
 7、公演录播回放视频下载功能   
-8、视频合并功能
+8、视频合并功能   
+9、B站视频的下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1N_UPkNAgjxVYQSaiwZMB5w](https://pan.baidu.com/s/1N_UPkNAgjxVYQSaiwZMB5w)
-* 64位下载地址：[https://pan.baidu.com/s/1vISfEpxUjWljf7XVhAv6qw](https://pan.baidu.com/s/1vISfEpxUjWljf7XVhAv6qw)
-* mac下载地址：[https://pan.baidu.com/s/1p2xbladYO1gM7c5POEEe9Q](https://pan.baidu.com/s/1p2xbladYO1gM7c5POEEe9Q)
+* 32位下载地址：[https://pan.baidu.com/s/1vW4CRm3DWFprKQdQuGsR7Q](https://pan.baidu.com/s/1vW4CRm3DWFprKQdQuGsR7Q)
+* 64位下载地址：[https://pan.baidu.com/s/1pJ2ofztNGhynqWh_g7_C8Q](https://pan.baidu.com/s/1pJ2ofztNGhynqWh_g7_C8Q)
+* mac下载地址：[https://pan.baidu.com/s/14WEJLeZR62BKu5K0MBZwkA](https://pan.baidu.com/s/14WEJLeZR62BKu5K0MBZwkA)
 
 ## QQ群机器人
 ### 提供功能
