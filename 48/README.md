@@ -44,9 +44,9 @@
 3、微博超级话题自动一键签到   
 4、自动点赞
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1Z3T2cHk0A8yc5ac8INSsbA](https://pan.baidu.com/s/1Z3T2cHk0A8yc5ac8INSsbA)
-* 64位下载地址：[https://pan.baidu.com/s/1DUauOtQm3U4B1ZP0qTgKbg](https://pan.baidu.com/s/1DUauOtQm3U4B1ZP0qTgKbg)
-* mac下载地址：[https://pan.baidu.com/s/11g53PCL6pxrZLkUshhq17g](https://pan.baidu.com/s/11g53PCL6pxrZLkUshhq17g)
+* 32位下载地址：[https://pan.baidu.com/s/1CEMNTuixCkcBQoW2TecGDg](https://pan.baidu.com/s/1CEMNTuixCkcBQoW2TecGDg)
+* 64位下载地址：[https://pan.baidu.com/s/10hSq-aOU9JRQpn8mk6MV7A](https://pan.baidu.com/s/10hSq-aOU9JRQpn8mk6MV7A)
+* mac下载地址：[https://pan.baidu.com/s/1ZDjjOmQSL_nmf-QkkocIkg](https://pan.baidu.com/s/1ZDjjOmQSL_nmf-QkkocIkg)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
