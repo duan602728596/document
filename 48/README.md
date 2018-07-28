@@ -12,9 +12,9 @@
 8、视频合并功能   
 9、B站视频的下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1cv8YXmxaak308z6vpWem1A](https://pan.baidu.com/s/1cv8YXmxaak308z6vpWem1A)
-* 64位下载地址：[https://pan.baidu.com/s/100hlocjBIzx_RoWXdG-l5g](https://pan.baidu.com/s/100hlocjBIzx_RoWXdG-l5g)
-* mac下载地址：[https://pan.baidu.com/s/1Q1oiYftDk02NYu_myROp4A](https://pan.baidu.com/s/1Q1oiYftDk02NYu_myROp4A)
+* 32位下载地址：[https://pan.baidu.com/s/1qrdWGCOnBOY3DZzFms8f7w](https://pan.baidu.com/s/1qrdWGCOnBOY3DZzFms8f7w)
+* 64位下载地址：[https://pan.baidu.com/s/1oA3tdnthX6Gvr0mYD4nOfg](https://pan.baidu.com/s/1oA3tdnthX6Gvr0mYD4nOfg)
+* mac下载地址：[https://pan.baidu.com/s/1mNhPbT7rOqih5EW8fHIcLg](https://pan.baidu.com/s/1mNhPbT7rOqih5EW8fHIcLg)
 
 ## QQ群机器人
 ### 提供功能
