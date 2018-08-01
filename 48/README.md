@@ -28,8 +28,8 @@
 8、自定义命令   
 9、配置导入和导出
 ### v2版（基于酷Q）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1180kPpWCWru6051zIcs8OA](https://pan.baidu.com/s/1180kPpWCWru6051zIcs8OA)
-* 64位下载地址：[https://pan.baidu.com/s/1lQgGvewxIK0AQLG0AW8BCw](https://pan.baidu.com/s/1lQgGvewxIK0AQLG0AW8BCw)
+* 32位下载地址：[https://pan.baidu.com/s/13WUoYo633aWHq5zGJxHyoA](https://pan.baidu.com/s/13WUoYo633aWHq5zGJxHyoA)
+* 64位下载地址：[https://pan.baidu.com/s/1IpamLmPc4WDGwJHd7zbESg](https://pan.baidu.com/s/1IpamLmPc4WDGwJHd7zbESg)
 ### v1版（基于SmartQQ）下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA](https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA)
 * 64位下载地址：[https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ](https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ)
