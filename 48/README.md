@@ -38,15 +38,16 @@
 * 32位下载地址：[https://pan.baidu.com/s/1uxarfjx6g0RjLNNU_121jA](https://pan.baidu.com/s/1uxarfjx6g0RjLNNU_121jA)
 
 ## 微博超话自动签到工具
+网页端签到请去[https://www.huangtongyang.top:5052/Login](https://www.huangtongyang.top:5052/Login)
 ### 提供功能
 1、微博多账号登录   
 2、登录支持手势验证（四宫格）   
 3、微博超级话题自动一键签到   
 4、自动点赞
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/12zQNOn9LCoXSUQlF1RR6dA](https://pan.baidu.com/s/12zQNOn9LCoXSUQlF1RR6dA)
-* 64位下载地址：[https://pan.baidu.com/s/17ThslJloN0dlTSBgHkVp1w](https://pan.baidu.com/s/17ThslJloN0dlTSBgHkVp1w)
-* mac下载地址：[https://pan.baidu.com/s/1SFuGaItOVYoQVMyJ7kItBg](https://pan.baidu.com/s/1SFuGaItOVYoQVMyJ7kItBg)
+* 32位下载地址：[https://pan.baidu.com/s/1wWVQLoFtWmdjBY6bzs3bcw](https://pan.baidu.com/s/1wWVQLoFtWmdjBY6bzs3bcw)
+* 64位下载地址：[https://pan.baidu.com/s/1lnd8OQ11lt15X9CaKwCxCg](https://pan.baidu.com/s/1lnd8OQ11lt15X9CaKwCxCg)
+* mac下载地址：[https://pan.baidu.com/s/1KLa4niuYAHjqc36VefxIiA](https://pan.baidu.com/s/1KLa4niuYAHjqc36VefxIiA)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
