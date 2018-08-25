@@ -1,16 +1,29 @@
 # 工具下载地址
 
+## 微博超话自动签到工具
+网页端签到请去[https://www.huangtongyang.top:5052/Login](https://www.huangtongyang.top:5052/Login)
+### 提供功能
+1. 微博多账号登录   
+2. 登录支持手势验证（四宫格）   
+3. 微博超级话题自动一键签到   
+4. 自动点赞
+5. 关注管理，一键取关
+### 下载地址
+* 32位下载地址：[https://pan.baidu.com/s/19qyaMduVUOhhLdUyHbRzKw](https://pan.baidu.com/s/19qyaMduVUOhhLdUyHbRzKw)
+* 64位下载地址：[https://pan.baidu.com/s/1RLXBMKa1T__ZJDeoOYzxlA](https://pan.baidu.com/s/1RLXBMKa1T__ZJDeoOYzxlA)
+* mac下载地址：[https://pan.baidu.com/s/17xYQk5vvFJ9_Dd6wMA_n2A](https://pan.baidu.com/s/17xYQk5vvFJ9_Dd6wMA_n2A)
+
 ## 48工具，常用功能合集
 ### 提供功能
-1、口袋48直播抓取和观看   
-2、口袋48录播下载和观看   
-3、B站直播抓取   
-4、视频剪切   
-5、摩点项目数据导出Excel   
-6、官方源录制   
-7、公演录播回放视频下载功能   
-8、视频合并功能   
-9、B站视频的下载功能
+1. 口袋48直播抓取和观看   
+2. 口袋48录播下载和观看   
+3. B站直播抓取   
+4. 视频剪切   
+5. 摩点项目数据导出Excel   
+6. 官方源录制   
+7. 公演录播回放视频下载功能   
+8. 视频合并功能   
+9. B站视频的下载功能
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1kE6tI5i1DGOXr5V2LLpV1w](https://pan.baidu.com/s/1kE6tI5i1DGOXr5V2LLpV1w)
 * 64位下载地址：[https://pan.baidu.com/s/1Wh9TFDFrPX4AGWlVgQFYtQ](https://pan.baidu.com/s/1Wh9TFDFrPX4AGWlVgQFYtQ)
@@ -18,15 +31,15 @@
 
 ## QQ群机器人
 ### 提供功能
-1、摩点项目监听   
-2、口袋48直播监听   
-3、成员房间信息监听   
-4、微博监听   
-5、定时喊话   
-6、天气预报查询   
-7、图灵机器人   
-8、自定义命令   
-9、配置导入和导出
+1. 摩点项目监听   
+2. 口袋48直播监听   
+3. 成员房间信息监听   
+4. 微博监听   
+5. 定时喊话   
+6. 天气预报查询   
+7. 图灵机器人   
+8. 自定义命令   
+9. 配置导入和导出
 ### v2版（基于酷Q）下载地址
 * 32位下载地址：[https://pan.baidu.com/s/13WUoYo633aWHq5zGJxHyoA](https://pan.baidu.com/s/13WUoYo633aWHq5zGJxHyoA)
 * 64位下载地址：[https://pan.baidu.com/s/1IpamLmPc4WDGwJHd7zbESg](https://pan.baidu.com/s/1IpamLmPc4WDGwJHd7zbESg)
@@ -37,22 +50,10 @@
 * 服务器代码地址：[https://github.com/duan602728596/chouka-server](https://github.com/duan602728596/chouka-server)
 * 32位下载地址：[https://pan.baidu.com/s/1uxarfjx6g0RjLNNU_121jA](https://pan.baidu.com/s/1uxarfjx6g0RjLNNU_121jA)
 
-## 微博超话自动签到工具
-网页端签到请去[https://www.huangtongyang.top:5052/Login](https://www.huangtongyang.top:5052/Login)
-### 提供功能
-1、微博多账号登录   
-2、登录支持手势验证（四宫格）   
-3、微博超级话题自动一键签到   
-4、自动点赞
-### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1wWVQLoFtWmdjBY6bzs3bcw](https://pan.baidu.com/s/1wWVQLoFtWmdjBY6bzs3bcw)
-* 64位下载地址：[https://pan.baidu.com/s/1lnd8OQ11lt15X9CaKwCxCg](https://pan.baidu.com/s/1lnd8OQ11lt15X9CaKwCxCg)
-* mac下载地址：[https://pan.baidu.com/s/1KLa4niuYAHjqc36VefxIiA](https://pan.baidu.com/s/1KLa4niuYAHjqc36VefxIiA)
-
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
-1、成员直播录源   
-2、成员直播多开
+1. 成员直播录源   
+2. 成员直播多开
 ### 下载地址
 * 32位下载地址：[https://pan.baidu.com/s/1pM4RpyF](https://pan.baidu.com/s/1pM4RpyF)
 * 64位下载地址：[https://pan.baidu.com/s/1jJfYXi2](https://pan.baidu.com/s/1jJfYXi2)
