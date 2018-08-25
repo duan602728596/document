@@ -1,7 +1,7 @@
 # 工具下载地址
 
 ## 微博超话自动签到工具
-网页端签到请去[https://www.huangtongyang.top:5052/Login](https://www.huangtongyang.top:5052/Login)
+网页端签到请去[https://www.wbwbwb.top/Login](https://www.wbwbwb.top/Login)
 ### 提供功能
 1. 微博多账号登录   
 2. 登录支持手势验证（四宫格）   
