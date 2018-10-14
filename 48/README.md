@@ -15,24 +15,20 @@
 
 ## QQ群机器人
 ### 提供功能
-1. 摩点项目监听   
-2. 口袋48直播监听   
-3. 成员房间信息监听   
-4. 微博监听   
-5. 定时喊话   
-6. 天气预报查询   
-7. 图灵机器人   
-8. 自定义命令   
-9. 配置导入和导出
+1. 摩点项目监听
+2. 摩点集资抽卡
+3. 口袋48直播监听
+4. 成员房间信息监听
+5. 微博监听
+6. 定时喊话
+7. 自定义命令   
+8. 配置导入和导出
 ### v2版（基于酷Q）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1Ws7a-PsBiLcwcPna8EWgyQ](https://pan.baidu.com/s/1Ws7a-PsBiLcwcPna8EWgyQ)
-* 64位下载地址：[https://pan.baidu.com/s/1jtAmVphOC7ijSI99iZxUAw](https://pan.baidu.com/s/1jtAmVphOC7ijSI99iZxUAw)
+* 32位下载地址：[https://pan.baidu.com/s/1Rk9SkgKW74fsMqpQRNbDpw](https://pan.baidu.com/s/1Rk9SkgKW74fsMqpQRNbDpw)
+* 64位下载地址：[https://pan.baidu.com/s/19x75QtJz0ojwztBrlBp7aA](https://pan.baidu.com/s/19x75QtJz0ojwztBrlBp7aA)
 ### v1版（基于SmartQQ）下载地址（不推荐）
 * 32位下载地址：[https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA](https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA)
 * 64位下载地址：[https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ](https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ)
-### v2版（基于酷Q，带抽卡功能）下载地址（不推荐）
-* 服务器代码地址：[https://github.com/duan602728596/chouka-server](https://github.com/duan602728596/chouka-server)
-* 32位下载地址：[https://pan.baidu.com/s/1uxarfjx6g0RjLNNU_121jA](https://pan.baidu.com/s/1uxarfjx6g0RjLNNU_121jA)
 
 ## 48工具，常用功能合集
 ### 提供功能
