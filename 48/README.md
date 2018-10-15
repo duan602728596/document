@@ -9,9 +9,7 @@
 4. 自动点赞
 5. 关注管理，一键取关
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/19qyaMduVUOhhLdUyHbRzKw](https://pan.baidu.com/s/19qyaMduVUOhhLdUyHbRzKw)
-* 64位下载地址：[https://pan.baidu.com/s/1RLXBMKa1T__ZJDeoOYzxlA](https://pan.baidu.com/s/1RLXBMKa1T__ZJDeoOYzxlA)
-* mac下载地址：[https://pan.baidu.com/s/17xYQk5vvFJ9_Dd6wMA_n2A](https://pan.baidu.com/s/17xYQk5vvFJ9_Dd6wMA_n2A)
+[https://github.com/duan602728596/weibo-auto-check-in-tool/releases/tag/v0.1.4](https://github.com/duan602728596/weibo-auto-check-in-tool/releases/tag/v0.1.4)
 
 ## QQ群机器人
 ### 提供功能
@@ -24,8 +22,7 @@
 7. 自定义命令   
 8. 配置导入和导出
 ### v2版（基于酷Q）下载地址
-* 32位下载地址：[https://pan.baidu.com/s/16az3ffVDpGy7RyD0sYc27Q](https://pan.baidu.com/s/16az3ffVDpGy7RyD0sYc27Q)
-* 64位下载地址：[https://pan.baidu.com/s/1586rqLJmZoHjc4DrlfPKMQ](https://pan.baidu.com/s/1586rqLJmZoHjc4DrlfPKMQ)
+[https://github.com/duan602728596/qqtools/releases/tag/v2.4.0](https://github.com/duan602728596/qqtools/releases/tag/v2.4.0)
 ### v1版（基于SmartQQ）下载地址（不推荐）
 * 32位下载地址：[https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA](https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA)
 * 64位下载地址：[https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ](https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ)
@@ -42,9 +39,7 @@
 8. 视频合并功能   
 9. B站视频的下载功能
 ### 下载地址
-* 32位下载地址：[https://pan.baidu.com/s/1kI3mm8XmtjtfDXIoaozHwQ](https://pan.baidu.com/s/1kI3mm8XmtjtfDXIoaozHwQ)
-* 64位下载地址：[https://pan.baidu.com/s/1tyZ7qMhSrk-fnvU-iGghIQ](https://pan.baidu.com/s/1tyZ7qMhSrk-fnvU-iGghIQ)
-* mac下载地址：[https://pan.baidu.com/s/1Y8MbwEMO_9plRSZjg1NedQ](https://pan.baidu.com/s/1Y8MbwEMO_9plRSZjg1NedQ)
+[https://github.com/duan602728596/48tools/releases/tag/v1.5.6](https://github.com/duan602728596/48tools/releases/tag/v1.5.6)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
