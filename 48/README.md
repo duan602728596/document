@@ -9,7 +9,7 @@
 4. 自动点赞
 5. 关注管理，一键取关
 ### 下载地址
-[https://github.com/duan602728596/weibo-auto-check-in-tool/releases/tag/v0.1.4](https://github.com/duan602728596/weibo-auto-check-in-tool/releases/tag/v0.1.4)
+[https://github.com/duan602728596/weibo-auto-check-in-tool/releases](https://github.com/duan602728596/weibo-auto-check-in-tool/releases)
 
 ## QQ群机器人
 ### 提供功能
@@ -22,7 +22,7 @@
 7. 自定义命令   
 8. 配置导入和导出
 ### v2版（基于酷Q）下载地址
-[https://github.com/duan602728596/qqtools/releases/tag/v2.4.0](https://github.com/duan602728596/qqtools/releases/tag/v2.4.0)
+[https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)
 ### v1版（基于SmartQQ）下载地址（不推荐）
 * 32位下载地址：[https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA](https://pan.baidu.com/s/1O3GOWcNAZxPpJrKRqO7ybA)
 * 64位下载地址：[https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ](https://pan.baidu.com/s/1e0WpeIst3tBE8JBEPjONeQ)
@@ -39,7 +39,7 @@
 8. 视频合并功能   
 9. B站视频的下载功能
 ### 下载地址
-[https://github.com/duan602728596/48tools/releases/tag/v1.5.6](https://github.com/duan602728596/48tools/releases/tag/v1.5.6)
+[https://github.com/duan602728596/48tools/releases/tag](https://github.com/duan602728596/48tools/releases)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
