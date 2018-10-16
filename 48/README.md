@@ -44,7 +44,7 @@
 8. 视频合并功能   
 9. B站视频的下载功能
 ### 下载地址
-[https://github.com/duan602728596/48tools/releases/tag](https://github.com/duan602728596/48tools/releases)
+[https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
 * mac下载地址：[https://pan.baidu.com/s/1R5CejKfpqpPsZNY41-Jdng](https://pan.baidu.com/s/1R5CejKfpqpPsZNY41-Jdng)
 * 32位下载地址：[https://pan.baidu.com/s/1czgOh-1wW7x-x61MYPd1Tw](https://pan.baidu.com/s/1czgOh-1wW7x-x61MYPd1Tw)
 * 64位下载地址：[https://pan.baidu.com/s/1pVCV5GqV_9aUG5D0g6To-A](https://pan.baidu.com/s/1pVCV5GqV_9aUG5D0g6To-A)
