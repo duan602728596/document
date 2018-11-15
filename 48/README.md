@@ -45,9 +45,9 @@
 9. B站视频的下载功能
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：[https://pan.baidu.com/s/1R5CejKfpqpPsZNY41-Jdng](https://pan.baidu.com/s/1R5CejKfpqpPsZNY41-Jdng)
-* 32位下载地址：[https://pan.baidu.com/s/1czgOh-1wW7x-x61MYPd1Tw](https://pan.baidu.com/s/1czgOh-1wW7x-x61MYPd1Tw)
-* 64位下载地址：[https://pan.baidu.com/s/1pVCV5GqV_9aUG5D0g6To-A](https://pan.baidu.com/s/1pVCV5GqV_9aUG5D0g6To-A)
+* mac下载地址：[https://pan.baidu.com/s/166SPT9dPzQZJd0MQ8M4SQg](https://pan.baidu.com/s/166SPT9dPzQZJd0MQ8M4SQg)
+* 32位下载地址：[https://pan.baidu.com/s/1DXMy9swOlJo4DCegU5cM1A](https://pan.baidu.com/s/1DXMy9swOlJo4DCegU5cM1A)
+* 64位下载地址：[https://pan.baidu.com/s/1FlJaw7D4qfibcONBw6LJ9Q](https://pan.baidu.com/s/1FlJaw7D4qfibcONBw6LJ9Q)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
