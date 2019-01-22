@@ -1,19 +1,5 @@
 # 工具下载地址
 
-## 微博超话自动签到工具
-网页端签到请去[https://www.wbwbwb.top/Login](https://www.wbwbwb.top/Login)
-### 提供功能
-1. 微博多账号登录   
-2. 登录支持手势验证（四宫格）   
-3. 微博超级话题自动一键签到   
-4. 自动点赞
-5. 关注管理，一键取关
-### 下载地址
-[https://github.com/duan602728596/weibo-auto-check-in-tool/releases](https://github.com/duan602728596/weibo-auto-check-in-tool/releases)
-* mac下载地址：[https://pan.baidu.com/s/1mzmJD_Nf0VseY-NKsr8Xew](https://pan.baidu.com/s/1mzmJD_Nf0VseY-NKsr8Xew)
-* 32位下载地址：[https://pan.baidu.com/s/1e02J4uGCYTVz9OZcLMVurw](https://pan.baidu.com/s/1e02J4uGCYTVz9OZcLMVurw)
-* 64位下载地址：[https://pan.baidu.com/s/1960druCne8a8JLImxb6QUQ](https://pan.baidu.com/s/1960druCne8a8JLImxb6QUQ)
-
 ## QQ群机器人
 ### 提供功能
 1. 摩点项目监听
@@ -45,9 +31,23 @@
 9. B站视频的下载功能
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：[https://pan.baidu.com/s/166SPT9dPzQZJd0MQ8M4SQg](https://pan.baidu.com/s/166SPT9dPzQZJd0MQ8M4SQg)
-* 32位下载地址：[https://pan.baidu.com/s/1DXMy9swOlJo4DCegU5cM1A](https://pan.baidu.com/s/1DXMy9swOlJo4DCegU5cM1A)
-* 64位下载地址：[https://pan.baidu.com/s/1FlJaw7D4qfibcONBw6LJ9Q](https://pan.baidu.com/s/1FlJaw7D4qfibcONBw6LJ9Q)
+* mac下载地址：[https://pan.baidu.com/s/1Qxr3FbvPimkaYIyQTSzn8A](https://pan.baidu.com/s/1Qxr3FbvPimkaYIyQTSzn8A)
+* 32位下载地址：[https://pan.baidu.com/s/1FyHnrNfY-N6S6ea_sF0cLA](https://pan.baidu.com/s/1FyHnrNfY-N6S6ea_sF0cLA)
+* 64位下载地址：[https://pan.baidu.com/s/1zhFOV7hB1sHshAGlBoYuTw](https://pan.baidu.com/s/1zhFOV7hB1sHshAGlBoYuTw)
+
+## 微博超话自动签到工具
+网页端签到请去[https://www.wbwbwb.top/Login](https://www.wbwbwb.top/Login)
+### 提供功能
+1. 微博多账号登录   
+2. 登录支持手势验证（四宫格）   
+3. 微博超级话题自动一键签到   
+4. 自动点赞
+5. 关注管理，一键取关
+### 下载地址
+[https://github.com/duan602728596/weibo-auto-check-in-tool/releases](https://github.com/duan602728596/weibo-auto-check-in-tool/releases)
+* mac下载地址：[https://pan.baidu.com/s/1mzmJD_Nf0VseY-NKsr8Xew](https://pan.baidu.com/s/1mzmJD_Nf0VseY-NKsr8Xew)
+* 32位下载地址：[https://pan.baidu.com/s/1e02J4uGCYTVz9OZcLMVurw](https://pan.baidu.com/s/1e02J4uGCYTVz9OZcLMVurw)
+* 64位下载地址：[https://pan.baidu.com/s/1960druCne8a8JLImxb6QUQ](https://pan.baidu.com/s/1960druCne8a8JLImxb6QUQ)
 
 ## 口袋48成员直播抓取+多开客户端
 ### 提供功能
