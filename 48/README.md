@@ -11,9 +11,12 @@
 7. 自定义命令   
 8. 配置导入和导出
 ### v2版（基于酷Q）下载地址
-[https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)
-* 32位下载地址：[https://pan.baidu.com/s/1BueIP80dOJNEkjZ7OTSL_Q](https://pan.baidu.com/s/1BueIP80dOJNEkjZ7OTSL_Q)
-* 64位下载地址：[https://pan.baidu.com/s/1k2cenchRIJLr80aL8FPkDA](https://pan.baidu.com/s/1k2cenchRIJLr80aL8FPkDA)
+[https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
+由于百度网盘暂时无法无提取码分享，所以使用提取码分享
+* 32位下载地址：[https://pan.baidu.com/s/1A1aJOeXjJbK3VIJv8sgEGQ](https://pan.baidu.com/s/1A1aJOeXjJbK3VIJv8sgEGQ)
+  提取码：bnqb
+* 64位下载地址：[https://pan.baidu.com/s/1Wxp-kodGcTagACmBdJ5iWQ](https://pan.baidu.com/s/1Wxp-kodGcTagACmBdJ5iWQ)
+  提取码：pi3e
 
 ## 48工具，常用功能合集
 ### 提供功能
