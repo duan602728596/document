@@ -28,9 +28,9 @@
 9. B站视频的下载功能
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：[https://pan.baidu.com/s/1BL1gjqt7oTpunQDk3DOyLA](https://pan.baidu.com/s/1BL1gjqt7oTpunQDk3DOyLA)
-* 32位下载地址：[https://pan.baidu.com/s/1Ww-C49kWSu2JiVqbPQRaNQ](https://pan.baidu.com/s/1Ww-C49kWSu2JiVqbPQRaNQ)
-* 64位下载地址：[https://pan.baidu.com/s/1dsr2KEFd7wxrHsIPDo3kiw](https://pan.baidu.com/s/1dsr2KEFd7wxrHsIPDo3kiw)
+* mac下载地址：[https://pan.baidu.com/s/1Hn1Cd7Xybxjf7tjquInSjg](https://pan.baidu.com/s/1Hn1Cd7Xybxjf7tjquInSjg)
+* 32位下载地址：[https://pan.baidu.com/s/1C326vdhaQJGqwYKfwQRZow](https://pan.baidu.com/s/1C326vdhaQJGqwYKfwQRZow)
+* 64位下载地址：[https://pan.baidu.com/s/1Q8Dghi5a1ZCHX-Ix4vI8Ow](https://pan.baidu.com/s/1Q8Dghi5a1ZCHX-Ix4vI8Ow)
 
 ## 微博超话自动签到工具
 网页端签到请去[https://www.wbwbwb.top/Login](https://www.wbwbwb.top/Login)
