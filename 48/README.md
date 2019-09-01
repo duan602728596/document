@@ -15,8 +15,8 @@
 * 32位下载地址：[https://pan.baidu.com/s/1atNMncvGXYKF0qWalRBpuQ](https://pan.baidu.com/s/1atNMncvGXYKF0qWalRBpuQ)
 * 64位下载地址：[https://pan.baidu.com/s/1coTnfoLgUSthIMSVdtuNXg](https://pan.baidu.com/s/1coTnfoLgUSthIMSVdtuNXg)
 ### 兼容非应援项目
-* 32位下载地址：[https://pan.baidu.com/s/1-2yXyjAtqU6FbaWcUfhyLA](https://pan.baidu.com/s/1-2yXyjAtqU6FbaWcUfhyLA)
-* 64位下载地址：[https://pan.baidu.com/s/1x7N2N1X05OabR8QkYo3TUg](https://pan.baidu.com/s/1x7N2N1X05OabR8QkYo3TUg)
+* 32位下载地址：[https://pan.baidu.com/s/1-cZZv8QXohGZ-BR0NvtkwA](https://pan.baidu.com/s/1-cZZv8QXohGZ-BR0NvtkwA)
+* 64位下载地址：[https://pan.baidu.com/s/1yvEPXT5q-b3wXH1b0gYx7w](https://pan.baidu.com/s/1yvEPXT5q-b3wXH1b0gYx7w)
 
 ## 48工具，常用功能合集
 ### 提供功能
