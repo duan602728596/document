@@ -13,8 +13,8 @@
 9. 配置导入和导出
 ### v2版（基于酷Q）下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
-* 32位下载地址：[https://pan.baidu.com/s/1-BJhMhzCr-VW7KupCic7_g](https://pan.baidu.com/s/1-BJhMhzCr-VW7KupCic7_g)
-* 64位下载地址：[https://pan.baidu.com/s/1nlGAEvE9pw9UBUjvRQ9xSg](https://pan.baidu.com/s/1nlGAEvE9pw9UBUjvRQ9xSg)
+* 32位下载地址：[https://pan.baidu.com/s/1E91k0np6BirK8t1-qrKLUg](https://pan.baidu.com/s/1E91k0np6BirK8t1-qrKLUg)
+* 64位下载地址：[https://pan.baidu.com/s/1U8B0aB9nuWtp_2bap9gZPQ](https://pan.baidu.com/s/1U8B0aB9nuWtp_2bap9gZPQ)
 
 ## 48工具，常用功能合集
 ### 提供功能
