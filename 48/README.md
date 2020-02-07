@@ -29,9 +29,9 @@
 9. B站视频的下载功能
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：[https://pan.baidu.com/s/1e_5I3Xblcw28ThF1NY4COA  密码:zojq](https://pan.baidu.com/s/1e_5I3Xblcw28ThF1NY4COA)
-* 32位下载地址：[https://pan.baidu.com/s/11tLkU3-il4cnP-D5UKV73w  密码:kl45](https://pan.baidu.com/s/11tLkU3-il4cnP-D5UKV73w)
-* 64位下载地址：[https://pan.baidu.com/s/1PPIPj520857whAwFxenaUw  密码:5cmt](https://pan.baidu.com/s/1PPIPj520857whAwFxenaUw)
+* mac下载地址：[https://pan.baidu.com/s/1ONDPloBfbFOpGYDVZQsxkw  密码:w95v](https://pan.baidu.com/s/1ONDPloBfbFOpGYDVZQsxkw)
+* 32位下载地址：[https://pan.baidu.com/s/1g0wDLJgtL7eWMARKRDHicQ  密码:h77s](https://pan.baidu.com/s/1g0wDLJgtL7eWMARKRDHicQ)
+* 64位下载地址：[https://pan.baidu.com/s/1qhkr9PCEWlEznSm9-tdKJw  密码:vph8](https://pan.baidu.com/s/1qhkr9PCEWlEznSm9-tdKJw)
 
 ## 微博超话自动签到工具
 网页端签到请去[https://www.wbwbwb.top/Login](https://www.wbwbwb.top/Login)
