@@ -29,20 +29,6 @@
 9. B站视频的下载功能
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：[https://pan.baidu.com/s/1ONDPloBfbFOpGYDVZQsxkw  密码:w95v](https://pan.baidu.com/s/1ONDPloBfbFOpGYDVZQsxkw)
-* 32位下载地址：[https://pan.baidu.com/s/1g0wDLJgtL7eWMARKRDHicQ  密码:h77s](https://pan.baidu.com/s/1g0wDLJgtL7eWMARKRDHicQ)
-* 64位下载地址：[https://pan.baidu.com/s/1qhkr9PCEWlEznSm9-tdKJw  密码:vph8](https://pan.baidu.com/s/1qhkr9PCEWlEznSm9-tdKJw)
-
-## 微博超话自动签到工具
-网页端签到请去[https://www.wbwbwb.top/Login](https://www.wbwbwb.top/Login)
-### 提供功能
-1. 微博多账号登录   
-2. 登录支持手势验证（四宫格）   
-3. 微博超级话题自动一键签到   
-4. 自动点赞
-5. 关注管理，一键取关
-### 下载地址
-[https://github.com/duan602728596/weibo-auto-check-in-tool/releases](https://github.com/duan602728596/weibo-auto-check-in-tool/releases)
-* mac下载地址：[https://pan.baidu.com/s/1mzmJD_Nf0VseY-NKsr8Xew](https://pan.baidu.com/s/1mzmJD_Nf0VseY-NKsr8Xew)
-* 32位下载地址：[https://pan.baidu.com/s/1e02J4uGCYTVz9OZcLMVurw](https://pan.baidu.com/s/1e02J4uGCYTVz9OZcLMVurw)
-* 64位下载地址：[https://pan.baidu.com/s/1960druCne8a8JLImxb6QUQ](https://pan.baidu.com/s/1960druCne8a8JLImxb6QUQ)
+* mac下载地址：[https://pan.baidu.com/s/1ihZ7qZKn-quwXse3MNuJ7A  密码:mvk2](https://pan.baidu.com/s/1ihZ7qZKn-quwXse3MNuJ7A)
+* 32位下载地址：[https://pan.baidu.com/s/1yuMF6Rfk9X51eDG9Pwmhew  密码:nj9o](https://pan.baidu.com/s/1yuMF6Rfk9X51eDG9Pwmhew)
+* 64位下载地址：[https://pan.baidu.com/s/1zOgBBCz0ZLsvnH67b4DZdg  密码:23s2](https://pan.baidu.com/s/1zOgBBCz0ZLsvnH67b4DZdg)
