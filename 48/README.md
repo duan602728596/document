@@ -16,6 +16,12 @@
 * 32位下载地址：[https://pan.baidu.com/s/16mGpUlMk1UWRt_kHg6yY2g  密码:ms47](https://pan.baidu.com/s/16mGpUlMk1UWRt_kHg6yY2g)
 * 64位下载地址：[https://pan.baidu.com/s/1VLthCUopMlk0LNPnYeSnWA  密码:8p94](https://pan.baidu.com/s/1VLthCUopMlk0LNPnYeSnWA)
 
+### rc版本
+
+* 32位下载地址：[https://pan.baidu.com/s/1FaSPmr59FsDWqA73N5ibOg  密码:0ffk](https://pan.baidu.com/s/1FaSPmr59FsDWqA73N5ibOg)
+* 64位下载地址：[https://pan.baidu.com/s/1ro6e6rRpM00Nk7hbUnuigw  密码:uuqi](https://pan.baidu.com/s/1ro6e6rRpM00Nk7hbUnuigw)
+
+
 ## 48工具，常用功能合集
 ### 提供功能
 1. 口袋48直播抓取和观看   
