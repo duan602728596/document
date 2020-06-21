@@ -15,7 +15,7 @@
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 * 32位下载地址：[https://pan.baidu.com/s/1sy8q8SYB6ZLQG4uxP864rg  密码:oj1r](https://pan.baidu.com/s/1sy8q8SYB6ZLQG4uxP864rg)
 * 64位下载地址：[https://pan.baidu.com/s/1sfxRXONIlNMZsmfAilUs8g  密码:lhl2](https://pan.baidu.com/s/1sfxRXONIlNMZsmfAilUs8g)
-### rc版本
+### rc版本（推荐下载该版本）
 * 32位下载地址：[https://pan.baidu.com/s/1FaSPmr59FsDWqA73N5ibOg  密码:0ffk](https://pan.baidu.com/s/1FaSPmr59FsDWqA73N5ibOg)
 * 64位下载地址：[https://pan.baidu.com/s/1ro6e6rRpM00Nk7hbUnuigw  密码:uuqi](https://pan.baidu.com/s/1ro6e6rRpM00Nk7hbUnuigw)
 
@@ -32,6 +32,6 @@
 9. B站视频的下载功能
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：[https://pan.baidu.com/s/1ihZ7qZKn-quwXse3MNuJ7A  密码:mvk2](https://pan.baidu.com/s/1ihZ7qZKn-quwXse3MNuJ7A)
-* 32位下载地址：[https://pan.baidu.com/s/1yuMF6Rfk9X51eDG9Pwmhew  密码:nj9o](https://pan.baidu.com/s/1yuMF6Rfk9X51eDG9Pwmhew)
-* 64位下载地址：[https://pan.baidu.com/s/1zOgBBCz0ZLsvnH67b4DZdg  密码:23s2](https://pan.baidu.com/s/1zOgBBCz0ZLsvnH67b4DZdg)
+* mac下载地址：[https://pan.baidu.com/s/1UEpEuUH6tgAMPne_V6bugg  密码:s6o4](https://pan.baidu.com/s/1UEpEuUH6tgAMPne_V6bugg)
+* 32位下载地址：[https://pan.baidu.com/s/1SoxxbVjhzDtMkzvU3U5mCA  密码:j18c](https://pan.baidu.com/s/1SoxxbVjhzDtMkzvU3U5mCA)
+* 64位下载地址：[https://pan.baidu.com/s/1uWQN0SOHN9GVtsAoXspFRw  密码:2o0f](https://pan.baidu.com/s/1uWQN0SOHN9GVtsAoXspFRw)
