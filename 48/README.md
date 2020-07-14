@@ -7,17 +7,13 @@
 3. 口袋48直播监听
 4. 成员房间信息监听
 5. 微博监听
-6. 绿洲监听
-7. 定时喊话
-8. 自定义命令   
-9. 配置导入和导出
+6. 定时喊话
+7. 自定义命令   
+8. 配置导入和导出
 ### v2版（基于酷Q）下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
-* 32位下载地址：[https://pan.baidu.com/s/1sy8q8SYB6ZLQG4uxP864rg  密码:oj1r](https://pan.baidu.com/s/1sy8q8SYB6ZLQG4uxP864rg)
-* 64位下载地址：[https://pan.baidu.com/s/1sfxRXONIlNMZsmfAilUs8g  密码:lhl2](https://pan.baidu.com/s/1sfxRXONIlNMZsmfAilUs8g)
-### rc版本（推荐下载该版本）
-* 32位下载地址：[https://pan.baidu.com/s/1FaSPmr59FsDWqA73N5ibOg  密码:0ffk](https://pan.baidu.com/s/1FaSPmr59FsDWqA73N5ibOg)
-* 64位下载地址：[https://pan.baidu.com/s/1ro6e6rRpM00Nk7hbUnuigw  密码:uuqi](https://pan.baidu.com/s/1ro6e6rRpM00Nk7hbUnuigw)
+* 32位下载地址：[https://pan.baidu.com/s/1MWp2tBBeKAslk0OoiHQoTQ  密码:xfh1](https://pan.baidu.com/s/1MWp2tBBeKAslk0OoiHQoTQ)
+* 64位下载地址：[https://pan.baidu.com/s/1k_FeXgcZlKNuqtCSNQ2qnA  密码:4vea](https://pan.baidu.com/s/1k_FeXgcZlKNuqtCSNQ2qnA)
 
 ## 48工具，常用功能合集
 ### 提供功能
