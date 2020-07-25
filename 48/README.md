@@ -10,6 +10,8 @@
 6. 定时喊话
 7. 自定义命令   
 8. 配置导入和导出
+### rc下载地址
+* 64位下载地址：[https://pan.baidu.com/s/1WAQ1dA8SHOf8Z5pjKh1kag  密码:q9p4](https://pan.baidu.com/s/1WAQ1dA8SHOf8Z5pjKh1kag)
 ### v2版（基于酷Q）下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 * 32位下载地址：[https://pan.baidu.com/s/1MWp2tBBeKAslk0OoiHQoTQ  密码:xfh1](https://pan.baidu.com/s/1MWp2tBBeKAslk0OoiHQoTQ)
