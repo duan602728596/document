@@ -30,6 +30,6 @@
 9. B站视频的下载功能
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：[https://pan.baidu.com/s/1UEpEuUH6tgAMPne_V6bugg  密码:s6o4](https://pan.baidu.com/s/1UEpEuUH6tgAMPne_V6bugg)
-* 32位下载地址：[https://pan.baidu.com/s/1SoxxbVjhzDtMkzvU3U5mCA  密码:j18c](https://pan.baidu.com/s/1SoxxbVjhzDtMkzvU3U5mCA)
-* 64位下载地址：[https://pan.baidu.com/s/1uWQN0SOHN9GVtsAoXspFRw  密码:2o0f](https://pan.baidu.com/s/1uWQN0SOHN9GVtsAoXspFRw)
+* mac下载地址：[https://pan.baidu.com/s/1FDxEGfoHiHoqO10uDTxNMA  密码: 2h9f](https://pan.baidu.com/s/1FDxEGfoHiHoqO10uDTxNMA)
+* 32位下载地址：[https://pan.baidu.com/s/1DKsh7u2O_KE7RhOqXmRWsg  密码: 867d](https://pan.baidu.com/s/1DKsh7u2O_KE7RhOqXmRWsg)
+* 64位下载地址：[https://pan.baidu.com/s/1HMJrJlGwMwgFMTmhMRMY2g  密码: q6kh](https://pan.baidu.com/s/1HMJrJlGwMwgFMTmhMRMY2g)
