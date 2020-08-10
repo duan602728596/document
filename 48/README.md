@@ -12,9 +12,9 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1QAT5SDpmOx8hTVuytt7U6Q  密码: hq34
+* win x64：链接: https://pan.baidu.com/s/1edyHDeKWjcPVIKUnHggPng 提取码: thev
 
-## QQ群机器人
+## QQ群机器人（由于酷Q停止运营，已停用）
 ### 提供功能
 1. 摩点项目监听
 2. 摩点集资抽卡
