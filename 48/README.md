@@ -12,7 +12,7 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1edyHDeKWjcPVIKUnHggPng 提取码: thev
+* win x64：链接: https://pan.baidu.com/s/1b6uowTRiPHWoRQ3_9yusHA 提取码: uqr9
 
 ## QQ群机器人（由于酷Q停止运营，已停用）
 ### 提供功能
