@@ -12,7 +12,7 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1Q0vbP8JCk-mAxhsc2iKRjw 提取码: eyvy
+* win x64：链接: https://pan.baidu.com/s/1YfXIhu_zpX9pqW2kGijDag 提取码: jg42
 
 ## QQ群机器人（由于酷Q停止运营，已停用）
 ### 提供功能
