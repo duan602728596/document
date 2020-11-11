@@ -12,7 +12,7 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1duhrdNKd5kXX226QTJtBqg  密码: r0m0
+* win x64：链接: https://pan.baidu.com/s/12m4UuvEx2EKMNu_OL9IzJA 提取码: wy83 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 ## QQ群机器人（由于酷Q停止运营，已停用）
 ### 提供功能
