@@ -12,7 +12,7 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1I5XdZ2o7CkPgfnRs8c39yg 提取码: frc6 复制这段内容后打开百度网盘手机App，操作更方便哦
+* win x64：链接: https://pan.baidu.com/s/1txa4ylqwGVe5RDJn2XHzHA 提取码: wm8y 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 ## QQ群机器人（由于酷Q停止运营，已停用）
 ### 提供功能
