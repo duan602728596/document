@@ -10,5 +10,5 @@
 
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac下载地址：链接: https://pan.baidu.com/s/18MdlHYIdS4ETVzNbjZ8N_g  密码: 3nup
-* 64位下载地址：链接: https://pan.baidu.com/s/1pZPt3eu5685nLT_rTQqGWA  密码: 9fa4
+* mac下载地址：链接: https://pan.baidu.com/s/10ztRkYtOOpvq_tgfwtwsJA  密码: q1un
+* 64位下载地址：链接: https://pan.baidu.com/s/1ShEkJNXDXmniqTK0jmFRGg  密码: c769
