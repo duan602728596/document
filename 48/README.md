@@ -4,7 +4,7 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1o_SRIDhtop-dLquvJUYxXQ  密码: 2n4d
+* win x64：链接: https://pan.baidu.com/s/13GnZfflOle6IAi7mzhFbsQ  密码: oa00
 
 ## 48工具，常用功能合集
 
