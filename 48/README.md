@@ -1,10 +1,10 @@
 # 工具下载地址
 
-## qqtools3
+## qqtools-mirai
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1txa4ylqwGVe5RDJn2XHzHA 提取码: wm8y 复制这段内容后打开百度网盘手机App，操作更方便哦
+* win x64：链接: https://pan.baidu.com/s/1o_SRIDhtop-dLquvJUYxXQ  密码: 2n4d
 
 ## 48工具，常用功能合集
 
