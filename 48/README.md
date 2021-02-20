@@ -4,7 +4,9 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1N9XhQl_2a-uH6dkCSkiDgQ  密码: 183n
+* win x64：链接: https://pan.baidu.com/s/1cuppEXWFK90mq607CTA9rg 提取码: 6t3q
+* mac：链接: https://pan.baidu.com/s/1W8XCSXo1FqcGN8HcOy7VkQ 提取码: 3fk5
+* linux x64：链接: https://pan.baidu.com/s/1ipnzqUN7CkxiU_zc_8BDsA 提取码: ec4m
 
 ## 48工具，常用功能合集
 
