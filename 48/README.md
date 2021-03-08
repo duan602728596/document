@@ -4,9 +4,9 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/1kdd43QsThPZQamDK6vRQcg 提取码: 57q6
-* mac：链接: https://pan.baidu.com/s/1i3ToqgfhdOJx4cq3aVDGog 提取码: stha
-* linux x64：链接: https://pan.baidu.com/s/1Bbks57f1tRqUJL0dSkcyCA 提取码: hax4
+* win x64：链接: https://pan.baidu.com/s/11MGyL1iexiI9H7SKkmjnFQ 提取码: pibm
+* mac：链接: https://pan.baidu.com/s/1teh_6zSOn8uwPRPX0bx0gA 提取码: r8ce
+* linux x64：链接: https://pan.baidu.com/s/1AtF8FXKPOU2AHAYzemTVCw 提取码: kru9
 
 ## 48工具，常用功能合集
 
