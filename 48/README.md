@@ -14,4 +14,5 @@
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
 * mac：链接: https://pan.baidu.com/s/1ZzAdAUmwdORMu_YvHN9lZQ  密码: gws3
 * win x64：链接: https://pan.baidu.com/s/1Y0MqmChUuWmwlMi1dMYxDQ  密码: lsd5
+* win x32：链接: https://pan.baidu.com/s/1RGtGOoAPNp7mmAZn2-ubOw  密码: dl7w
 * linux x64：链接: https://pan.baidu.com/s/1_TYvRXhskXsSKn-Swe35fw  密码: ww85
