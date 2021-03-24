@@ -4,9 +4,10 @@
 
 ### 下载地址
 
-* win x64：链接: https://pan.baidu.com/s/11MGyL1iexiI9H7SKkmjnFQ 提取码: pibm
-* mac：链接: https://pan.baidu.com/s/1teh_6zSOn8uwPRPX0bx0gA 提取码: r8ce
-* linux x64：链接: https://pan.baidu.com/s/1AtF8FXKPOU2AHAYzemTVCw 提取码: kru9
+* win x64：链接: https://pan.baidu.com/s/1FBDhrgU5G5mm6DO61bCATA  密码: prj5
+* win x32：链接: https://pan.baidu.com/s/1vp5a0r-ny5YMMGxQ4oNOyw  密码: fo4b
+* mac：链接: 链接: https://pan.baidu.com/s/1IhzOD54pXrBKibAe7FAIfQ  密码: h3bu
+* linux x64：链接: https://pan.baidu.com/s/1sfc42xf7mw_WgYRSRCe5_w  密码: 0lm8
 
 ## 48工具，常用功能合集
 
