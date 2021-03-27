@@ -12,9 +12,10 @@
 ## 48工具，常用功能合集
 
 ### 下载地址
-[https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1cuPj5yzLZDzlZJYXQ-in6g  密码: krdu
-* mac-arm64：链接: https://pan.baidu.com/s/1n23QtpQL4FO9etXtH0Gz5A  密码: ollh
-* win x64：链接: https://pan.baidu.com/s/1-9dJDANPz2HezpnT9JvkGw  密码: dfig
-* win x32：链接: https://pan.baidu.com/s/10WA4zLKDH-iJd7EdzpETPQ  密码: dnr9
-* linux x64：链接: https://pan.baidu.com/s/1i-Tq_ddIrWufo-hTNKlxCw  密码: g8ge
+[https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
+[https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
+* mac：链接: https://pan.baidu.com/s/1RFO-0Ckv2Nk4XAeG1vppzQ  密码: h5fg
+* mac-arm64：链接: https://pan.baidu.com/s/19ojgMgOxxcjY0qvhAjdI4w  密码: nb55
+* win x64：链接: https://pan.baidu.com/s/1WNoWFWmaOsNQb6PyIiiMQQ  密码: imuw
+* win x32：链接: https://pan.baidu.com/s/17jpfdZV9_8Fcd0EQ5-yMWg  密码: u0n2
+* linux x64：链接: https://pan.baidu.com/s/1rN8Ctdlh_yuPGD6Ejc6wCg  密码: du1v
