@@ -3,11 +3,13 @@
 ## qqtools-mirai
 
 ### 下载地址
-[https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)
-* win x64：链接: https://pan.baidu.com/s/1FBDhrgU5G5mm6DO61bCATA  密码: prj5
-* win x32：链接: https://pan.baidu.com/s/1vp5a0r-ny5YMMGxQ4oNOyw  密码: fo4b
-* mac：链接: 链接: https://pan.baidu.com/s/1IhzOD54pXrBKibAe7FAIfQ  密码: h3bu
-* linux x64：链接: https://pan.baidu.com/s/1sfc42xf7mw_WgYRSRCe5_w  密码: 0lm8
+[https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
+[https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/qqtools/releases)
+* mac：链接: https://pan.baidu.com/s/162QPZ9q0oeUvfcIwU5nnNQ  密码: c322
+* mac-arm64：链接: https://pan.baidu.com/s/1uKXGMCwUQV6P-hpSBoSrgg  密码: m5ao
+* win x64：链接: https://pan.baidu.com/s/1iNwsSAGegULbFZTl-6ZR6A  密码: 9iq5
+* win x32：链接: https://pan.baidu.com/s/14Xn_4Xr4qEQqF6kt2HvXAA  密码: bnqk
+* linux x64：链接: https://pan.baidu.com/s/1bO2fvq_SImRtCts-uAdfWg  密码: iu3k
 
 ## 48工具，常用功能合集
 
