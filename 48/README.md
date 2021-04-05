@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/162QPZ9q0oeUvfcIwU5nnNQ  密码: c322
-* mac-arm64：链接: https://pan.baidu.com/s/1uKXGMCwUQV6P-hpSBoSrgg  密码: m5ao
-* win x64：链接: https://pan.baidu.com/s/1iNwsSAGegULbFZTl-6ZR6A  密码: 9iq5
-* win x32：链接: https://pan.baidu.com/s/14Xn_4Xr4qEQqF6kt2HvXAA  密码: bnqk
-* linux x64：链接: https://pan.baidu.com/s/1bO2fvq_SImRtCts-uAdfWg  密码: iu3k
+* mac：链接: https://pan.baidu.com/s/1M5tw9kvBCc1rw-_ZS9KwRg  密码: nqkt
+* mac-arm64：链接: https://pan.baidu.com/s/19NFCjJ0ZEoLPuacb7G5Yuw  密码: 2bwg
+* win x64：链接: https://pan.baidu.com/s/1C_ojLdmwe_86VV9XAERvRA  密码: haa1
+* win x32：链接: https://pan.baidu.com/s/1mrNBK--1G4-gRxcNUCW3Pg  密码: l9aa
+* linux x64：链接: https://pan.baidu.com/s/1Gu_sehIMmPFKXoO83QuyYg  密码: dclk
 
 ## 48工具，常用功能合集
 
