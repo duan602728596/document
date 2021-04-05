@@ -16,8 +16,8 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1fSTwnKKckcSOI_ROgg6yuQ  密码: fmsq
-* mac-arm64：链接: https://pan.baidu.com/s/1vChZafCgY89yCUdgQ19aPQ  密码: 6hpr
-* win x64：链接: https://pan.baidu.com/s/1FnIR6rTBEmzZQ9R9W7M9_Q  密码: 3937
-* win x32：链接: https://pan.baidu.com/s/1-R5cjhnZkMcHx3ZOtuaEqQ  密码: dg74
-* linux x64：链接: https://pan.baidu.com/s/1-54N2z3cCrR9o2aWjDFvVA  密码: 123h
+* mac：链接: https://pan.baidu.com/s/1DIPx1pjEFvI805TVOdZqug  密码: 9afk
+* mac-arm64：链接: https://pan.baidu.com/s/1hh4FUVla_FNDhaHu8F_oNA  密码: n8vo
+* win x64：链接: https://pan.baidu.com/s/1Cf_ORCVudqqShSh0SkSRCw  密码: 9wlj
+* win x32：链接: https://pan.baidu.com/s/1d5g0UUt0x9dTh0R2ydy7wg  密码: cb69
+* linux x64：链接: https://pan.baidu.com/s/1j3MVanlr0fHZEREMZVQ86Q  密码: s92h
