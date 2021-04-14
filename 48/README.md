@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1gclrza9rwCePjLUX1gQ5fQ  密码: gaar
-* mac-arm64：链接: https://pan.baidu.com/s/1MXrXxvE0OBrXJkjpI0LNew  密码: 36ej
-* win x64：链接: https://pan.baidu.com/s/1AA6_QpzJvFUW24iTZ8NUeA  密码: h6ao
-* win x32：链接: https://pan.baidu.com/s/1bgGahxosguNtxQyYoOgmgQ  密码: daav
-* linux x64：链接: https://pan.baidu.com/s/1cowoZGvHjXbPOHcOE_ODEg  密码: 7oqj
+* mac：链接: https://pan.baidu.com/s/192maB90iOAmnO9__udl8pQ  密码: 3tvk
+* mac-arm64：链接: https://pan.baidu.com/s/1Evn6yVa1apIlpTh2Xly2KQ  密码: c9la
+* win x64：链接: https://pan.baidu.com/s/1g-Fxsp68MJx-pgXkUmZAZQ  密码: 1na7
+* win x32：链接: https://pan.baidu.com/s/1iPjmZ65vBQCtefD8VNlBNA  密码: t92c
+* linux x64：链接: https://pan.baidu.com/s/1AlfeKpnhczg5Z43XbzsS5A  密码: egbs
 
 ## 48工具，常用功能合集
 
