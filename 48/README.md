@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/192maB90iOAmnO9__udl8pQ  密码: 3tvk
-* mac-arm64：链接: https://pan.baidu.com/s/1Evn6yVa1apIlpTh2Xly2KQ  密码: c9la
-* win x64：链接: https://pan.baidu.com/s/1g-Fxsp68MJx-pgXkUmZAZQ  密码: 1na7
-* win x32：链接: https://pan.baidu.com/s/1iPjmZ65vBQCtefD8VNlBNA  密码: t92c
-* linux x64：链接: https://pan.baidu.com/s/1AlfeKpnhczg5Z43XbzsS5A  密码: egbs
+* mac：链接: https://pan.baidu.com/s/1SmRqT548eVsEoewOO7fgCQ  密码: hcn9
+* mac-arm64：链接: https://pan.baidu.com/s/1NSr5CxeDwsLd2DJS_krd4g  密码: p08d
+* win x64：链接: https://pan.baidu.com/s/1qyTqzLcX1aFFan8mZmHKhA  密码: pwhf
+* win x32：链接: https://pan.baidu.com/s/1FNnkHugDS0MdgvPVv4bVuQ  密码: h0cv
+* linux x64：链接: https://pan.baidu.com/s/18DsXw0xilNlDMoUQe76KGA  密码: 3s03
 
 ## 48工具，常用功能合集
 
