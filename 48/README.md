@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1SmRqT548eVsEoewOO7fgCQ  密码: hcn9
-* mac-arm64：链接: https://pan.baidu.com/s/1NSr5CxeDwsLd2DJS_krd4g  密码: p08d
-* win x64：链接: https://pan.baidu.com/s/1qyTqzLcX1aFFan8mZmHKhA  密码: pwhf
-* win x32：链接: https://pan.baidu.com/s/1FNnkHugDS0MdgvPVv4bVuQ  密码: h0cv
-* linux x64：链接: https://pan.baidu.com/s/18DsXw0xilNlDMoUQe76KGA  密码: 3s03
+* mac：链接: https://pan.baidu.com/s/1tkMJWN9dSFiTnqZVODc_Pw  密码: cnwk
+* mac-arm64：链接: https://pan.baidu.com/s/1vkq7vMQGIWfFzKFLbHptFw  密码: p6tq
+* win x64：链接: https://pan.baidu.com/s/1ejbceJImVpOlJeNm3-X1og  密码: 54ie
+* win x32：链接: https://pan.baidu.com/s/1nsOmQbmqamBL-usn-YRojg  密码: 7ii8
+* linux x64：链接: https://pan.baidu.com/s/19MLDQlImUlaA8GMY-I10Kg  密码: jpws
 
 ## 48工具，常用功能合集
 
