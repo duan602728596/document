@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1NMgQCddW5yPATIrCFf_Vvg 提取码: p2j3
-* mac-arm64：链接: https://pan.baidu.com/s/1xbDMnN79RH4Lc5UktMZC-w 提取码: fiqh
-* win x64：链接: https://pan.baidu.com/s/1cAXEdm5xUIcEsIupdYIo3g 提取码: twvk
-* win x32：链接: https://pan.baidu.com/s/1RhvOruyP_4YPRo5Ne-d64w 提取码: ieje
-* linux x64：链接: https://pan.baidu.com/s/12KNW00KZtMbzcK2Yxtab1Q 提取码: zbde
+* mac：链接: https://pan.baidu.com/s/185Xcs8iciaIsn0oJGmSKng  密码: 286q
+* mac-arm64：链接: https://pan.baidu.com/s/1J-Fk92xjLWx2QVjVI0DpVw  密码: ttwg
+* win x64：链接: https://pan.baidu.com/s/1m2a46AsepwrYutQo06xtlg  密码: fqj2
+* win x32：链接: https://pan.baidu.com/s/1cwZdMoEkOtwUXMD1SDLNzw  密码: nnbr
+* linux x64：链接: https://pan.baidu.com/s/1ExcAyAT3d-HqfA3Wo-be4g  密码: hrh2
 
 ## 48工具，常用功能合集
 
