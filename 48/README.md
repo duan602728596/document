@@ -5,9 +5,9 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1WPLaqMr5x8r4eFKsR10iEw  密码: 8nh7
-* mac-arm64：链接: https://pan.baidu.com/s/1aJI_gZ-KZt6sTCoaG_63HQ  密码: afk2
-* win x64：链接: https://pan.baidu.com/s/1KkQewHNHzx5kfedqevSMFQ  密码: 75eb
+* mac：链接: https://pan.baidu.com/s/1eXHZtNSEZCJO3bmpXVGV0w  密码: gjnh
+* mac-arm64：链接: https://pan.baidu.com/s/1JgCv20sq_01Xhl9NQkhnlQ  密码: vj8p
+* win x64：链接: https://pan.baidu.com/s/14N9WrLVrKfoom8R0jDU5WQ  密码: umdd
 * win x32：链接: https://pan.baidu.com/s/1_B6z_dJemg5YIytgz6hM2Q  密码: f1h0
 * linux x64：链接: https://pan.baidu.com/s/1lOKKSVBZH-OiozTaBHFtNQ  密码: tarj
 
