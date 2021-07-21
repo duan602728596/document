@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/106zOJucNyVcV-PPlUXm7jQ  密码: sgpf
-* mac-arm64：链接: https://pan.baidu.com/s/1Sy6NbWWBFvnaN3dVU2lrKw  密码: om5h
-* win x64：链接: https://pan.baidu.com/s/1AhtssoWnU2uAj7V3m97N2A  密码: kffp
-* win x32：链接: https://pan.baidu.com/s/1V-3vvfaNA31QvDHGm6yVlw  密码: 7h6a
-* linux x64：链接: https://pan.baidu.com/s/1LR5IBnIbpoL1eAhCPtdv8w  密码: ctgr
+* mac：链接: https://pan.baidu.com/s/1gaSpIeWKC8GAHkPKwZPXcg 提取码: tqng
+* mac-arm64：链接: https://pan.baidu.com/s/1tPJJD_DbqreyaqHC6dmkBA 提取码: svab
+* win x64：链接: https://pan.baidu.com/s/15nxJeTikr3DttOoYsRjtZA 提取码: 469j
+* win x32：链接: https://pan.baidu.com/s/10STQLjQBQ93q1Y4aqTAORQ 提取码: 8pn4
+* linux x64：链接: https://pan.baidu.com/s/1Vfuz8QenaZ6O8dyrnmqf_g 提取码: dro8
 
 ## 48工具，常用功能合集
 
