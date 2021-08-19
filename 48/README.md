@@ -16,8 +16,8 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1yrT6WGeFlO_oVzi5WZTUbQ 提取码: i5rb
-* mac-arm64：链接: https://pan.baidu.com/s/174UvBXt-onXngHibWGHmDg 提取码: 5be9
-* win x64：链接: https://pan.baidu.com/s/1WLvKISprQGppzCUn1LIuyQ 提取码: i3pd
-* win x32：链接: https://pan.baidu.com/s/1tHFHa_xSXqpAU9MxbuCfQA 提取码: quar
-* linux x64：链接: https://pan.baidu.com/s/1mhDGhONUNIPe-zDsekDUMg 提取码: eif7
+* mac：链接: https://pan.baidu.com/s/1RhC7Z9ySSgZOSOnw2Tfs8A 提取码: 9mtm
+* mac-arm64：链接: https://pan.baidu.com/s/1Q0LBXNqNf8NI9ktfUihK2Q 提取码: sfut
+* win x64：链接: https://pan.baidu.com/s/16YjbhjjJH7yFjaEDM_TOvw 提取码: g3b2
+* win x32：链接: https://pan.baidu.com/s/1lh8JadY5UIuJdv8DwmnjYw 提取码: osut
+* linux x64：链接: https://pan.baidu.com/s/1YqlzmzIf5sDftyJCIwaM0g 提取码: rtd0
