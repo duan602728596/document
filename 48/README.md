@@ -13,6 +13,13 @@
 
 ## 48工具，常用功能合集
 
+### v3.11.0
+* mac：链接: https://pan.baidu.com/s/1HNnEYy5Gpc_oRP_toG8d_w 提取码: a4p6
+* mac-arm64：链接: https://pan.baidu.com/s/1PdhpuUmKEIE5KHaIxEEyvA 提取码: fp9v
+* win x64：链接: https://pan.baidu.com/s/1qcuciEd-qtwINGfd3v-IEw 提取码: owmr
+* win x32：链接: https://pan.baidu.com/s/1k2zpJp7Q22cX4bdHir6Ejg 提取码: l6dm
+* linux x64：链接: https://pan.baidu.com/s/1tX8k2Nwf6eN8YnHskO3bVg 提取码: mtj7
+
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
