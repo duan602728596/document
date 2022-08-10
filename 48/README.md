@@ -14,17 +14,8 @@
 ## 48工具，常用功能合集
 
 ### v3.11.0
-* mac：链接: https://pan.baidu.com/s/1HNnEYy5Gpc_oRP_toG8d_w 提取码: a4p6
-* mac-arm64：链接: https://pan.baidu.com/s/1PdhpuUmKEIE5KHaIxEEyvA 提取码: fp9v
-* win x64：链接: https://pan.baidu.com/s/1qcuciEd-qtwINGfd3v-IEw 提取码: owmr
-* win x32：链接: https://pan.baidu.com/s/1k2zpJp7Q22cX4bdHir6Ejg 提取码: l6dm
-* linux x64：链接: https://pan.baidu.com/s/1tX8k2Nwf6eN8YnHskO3bVg 提取码: mtj7
-
-### 下载地址
-[https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
-[https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1dQSFikwkCWztCRTfTfNhNw 提取码: grj9
-* mac-arm64：链接: https://pan.baidu.com/s/1YC56qDR4wzg-Ydzx4wZeog 提取码: g89s
-* win x64：链接: https://pan.baidu.com/s/1pLW_BQAyS1kvH-dbAPeP-A 提取码: 7b2a
-* win x32：链接: https://pan.baidu.com/s/1R_kCcnjTDmG4BA1nZS1Icg 提取码: ikt1
-* linux x64：链接: https://pan.baidu.com/s/1PISLG8q5ySLI7WpC4EiO-A 提取码: 7cjv
+* mac：链接: https://pan.baidu.com/s/11Ewp9JmQawoaeMNoLylF4g 提取码: dncm
+* mac-arm64：链接: https://pan.baidu.com/s/12Zv0EAqjWZXZeWEWxFEIOg 提取码: 5af5
+* win x64：链接: https://pan.baidu.com/s/1ssVWFbatsAQyCTfCYEFd9w 提取码: t5gi
+* win x32：链接: https://pan.baidu.com/s/1U33TAOBNmxvzEcPqqD8n7Q 提取码: arrk
+* linux x64：链接: https://pan.baidu.com/s/1QRG3YTW3mYQ3pKPiMUtZpg 提取码: xu9j
