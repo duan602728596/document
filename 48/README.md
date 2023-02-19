@@ -16,8 +16,8 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1u3Z2opc4y722Gqdju5klaQ 提取码: g1nb
-* mac-arm64：链接: https://pan.baidu.com/s/11HqITpMs_bHGUnLm3rqo2w 提取码: jsd2
-* win x64：链接: https://pan.baidu.com/s/1ZkzQUOcmtG6fHk1v7PFFZw 提取码: edah
-* win x32：链接: https://pan.baidu.com/s/1yyocwq0-Pb97MY4D4RBFdw 提取码: rpqi
-* linux x64：链接: https://pan.baidu.com/s/1-8wsPJfeNlQdvz6_JCwRJQ 提取码: qbgc
+* mac：链接: https://pan.baidu.com/s/1QcCil8qykPzhmpcuXbkVpw 提取码: 6xui
+* mac-arm64：链接: https://pan.baidu.com/s/1TDgrEcxU7IZuOgY2CCHVpg 提取码: yfde
+* win x64：链接: https://pan.baidu.com/s/1_h7QSixXP54ZR37EosYhuw 提取码: nm8m
+* win x32：链接: https://pan.baidu.com/s/1m5Wzv1ij5eSIo1JZu9twEQ 提取码: ij8j
+* linux x64：链接: https://pan.baidu.com/s/1RYaUYZrzP8bO-hrl_jsqBg 提取码: 6rt3
