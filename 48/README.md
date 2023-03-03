@@ -24,6 +24,6 @@
 
 ## node-oicqhttp
 
-* mac：链接: https://pan.baidu.com/s/1ZDebJl7V3HTcQ1idZg6Zjw 提取码: em3c
-* win x64：链接: https://pan.baidu.com/s/1Ic9dWWurZpJtCKFSQKvjuw 提取码: 9i9q
-* linux x64：链接: https://pan.baidu.com/s/1MKQDPgnKo2nTjDlhy9FmKw 提取码: dku9
+* mac：链接: https://pan.baidu.com/s/1S1at6AXe_D8Xo3p5-1XbaA 提取码: xy7z
+* win x64：链接: https://pan.baidu.com/s/1eWxNkSQMWG2NjtEo-0CYYQ 提取码: xgh9
+* linux x64：链接: https://pan.baidu.com/s/1vi9XyJCIVTor-qyRtz71ow 提取码: j2fn
