@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1Rr-riAJZjXwrluMHsdrMEA 提取码: 62ax
-* mac-arm64：链接: https://pan.baidu.com/s/1lNIIVG3cnRNGDUwiZYH9sQ 提取码: 588h
-* win x64：链接: https://pan.baidu.com/s/1xMY6jvOspQfdyb3MMKjCoA 提取码: tmp3
-* win x32：链接: https://pan.baidu.com/s/1liBm77PhLxsY3F6SevVf_g 提取码: da7x
-* linux x64：链接: https://pan.baidu.com/s/1tDqot1ZURus5J4VSrNRWFQ 提取码: gq8z
+* mac：链接: https://pan.baidu.com/s/1o1lz62p4qTozdwrV1d5AXw 提取码: s1ab
+* mac-arm64：链接: https://pan.baidu.com/s/1sP3s7klcz9EWOO1phn8dHA 提取码: m2pe
+* win x64：链接: https://pan.baidu.com/s/1s0gn3dtGHSK_LcJ7tjRG6Q 提取码: nexm
+* win x32：链接: https://pan.baidu.com/s/1faT2mkcc6fCGFufqfHIWVw 提取码: xfet
+* linux x64：链接: https://pan.baidu.com/s/1cw4HFSb9pKUolvKcc0-aSg 提取码: fw95
 
 ## 48工具，常用功能合集
 
