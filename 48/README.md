@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1AZgpVtJCn80uZofHTyl0xg 提取码: 27n8
-* mac-arm64：链接: https://pan.baidu.com/s/10hQBiGullYNPvojm_jOryA 提取码: iphv
-* win x64：链接: https://pan.baidu.com/s/1QHzSUbnA-01Z79rPs-gKbg 提取码: pv3e
-* win x32：链接: https://pan.baidu.com/s/1XbPM11Awlmb3lSYaHDd_jQ 提取码: f825
-* linux x64：链接: https://pan.baidu.com/s/1ElyipO_BPpZs9FDVXUliYg 提取码: pvpt
+* mac：链接: https://pan.baidu.com/s/1PQ9wFPIU4QT0tiixJhc2LQ 提取码: hmak
+* mac-arm64：链接: https://pan.baidu.com/s/1mocZqlgQH8Cntt1rgZeheQ 提取码: uc7u
+* win x64：链接: https://pan.baidu.com/s/1pV-nt7ICQx9xmtgqLH0-9Q 提取码: viyy
+* win x32：链接: https://pan.baidu.com/s/1Rhztog2Uimyt59NKseFl_Q 提取码: nqk5
+* linux x64：链接: https://pan.baidu.com/s/1AQS6Nk3sbbWSphAHNUHaWA 提取码: 7y8c
 
 ## 48工具，常用功能合集
 
