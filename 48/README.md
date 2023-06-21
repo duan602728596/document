@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1v-IaHT46A62dFkOeAJiMrA 提取码: b1di
-* mac-arm64：链接: https://pan.baidu.com/s/1U9P-JmgWNsIFPXfETpNtog 提取码: 1p96
-* win x64：链接: https://pan.baidu.com/s/1RRq0WD6AmRXY3jOyCtqlGw 提取码: ejcq
-* win x32：链接: https://pan.baidu.com/s/1xDXpwl2Hx1v0S8rzthiT7A 提取码: 1fu5
-* linux x64：链接: https://pan.baidu.com/s/1m-R42o2syGLcnY95d81Beg 提取码: ei8a
+* mac：链接: https://pan.baidu.com/s/1HyO4cCVhM0VPXxpgYldRmQ 提取码: 9tg4
+* mac-arm64：链接: https://pan.baidu.com/s/1zSxb6VES-EequS1zVEEEVA 提取码: bpaa
+* win x64：链接: https://pan.baidu.com/s/1csFXmsIGbDXFlzIN9zPVNA 提取码: r6uk
+* win x32：链接: https://pan.baidu.com/s/1x3NJSJ3-431lMOXi7rlGCg 提取码: dy74
+* linux x64：链接: https://pan.baidu.com/s/1TY2Jx25WnQd0iVKT-OlrKA 提取码: bwty
 
 ## 48工具，常用功能合集
 
