@@ -5,11 +5,11 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/1rIPSERoZXnRMnEM-UMDuEA 提取码: jt55
-* mac-arm64：链接: https://pan.baidu.com/s/1_yHqrd1Bk6JUZNbbzHyU_w 提取码: 1vs6
-* win x64：链接: https://pan.baidu.com/s/1Qx4nS1qkvJFRoFzL2hio8w 提取码: t1jv
-* win x32：链接: https://pan.baidu.com/s/12X0RN8VKBxkq8uqnGs74oQ 提取码: 1qy4
-* linux x64：链接: https://pan.baidu.com/s/1VOowmWk1kWkDb4kvr0M5Pg 提取码: i9ew
+* mac：链接: https://pan.baidu.com/s/1e1csYI_NU1RQI7PoLXcBwA 提取码: 29hp
+* mac-arm64：链接: https://pan.baidu.com/s/1ibZ9wMsoEQOVuPyZgMdriQ 提取码: rquu
+* win x64：链接: https://pan.baidu.com/s/11I1d0oVaHC3FOhVurOEBxg 提取码: aat7
+* win x32：链接: https://pan.baidu.com/s/1Ak-JUb9RIFkWisWlnMdC1w 提取码: 2qbd
+* linux x64：链接: https://pan.baidu.com/s/1I2tC0ewjc39kwWpN-VmBEA 提取码: 8bem
 
 ## 48工具，常用功能合集
 
