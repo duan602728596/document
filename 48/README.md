@@ -16,11 +16,11 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/17bmDRdTQHoo0-HCRxHHVMA 提取码: pdmy
-* mac-arm64：链接: https://pan.baidu.com/s/1CEMEIu7qIdV_xKFkeDIpYg 提取码: qbkc
-* win x64：链接: https://pan.baidu.com/s/1fJ9Yi85It85HDEHmPGnJOw 提取码: 89ge
-* win x32：链接: https://pan.baidu.com/s/1Zg_EUgaQ02oo3z-74camhQ 提取码: w3mb
-* linux x64：链接: https://pan.baidu.com/s/1c4XiQm8H_dCu4n6JndpHhw 提取码: nx51
+* mac：链接: https://pan.baidu.com/s/1u2vymKq6MqR0kpFSaJYFQQ 提取码: hacc
+* mac-arm64：链接: https://pan.baidu.com/s/1BycA7TOJVex8ojFvhaXAvA 提取码: vymi
+* win x64：链接: https://pan.baidu.com/s/18zRrTy3KO3FQLzKezyInWA 提取码: v9kp
+* win x32：链接: https://pan.baidu.com/s/1f1AnEPUyMForsEPXLGFoRA 提取码: 898a
+* linux x64：链接: https://pan.baidu.com/s/1s227CCsvryWkbPBzTS0Tbw 提取码: eipg
 
 ## node-oicqhttp
 
