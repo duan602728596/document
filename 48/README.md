@@ -16,11 +16,11 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1o2Q4q9CME5yKuVaPYETXrA 提取码: 8k4e
-* mac-arm64：链接: https://pan.baidu.com/s/1_OUhPF6ekjsd85jrO6jVNg 提取码: e99j
-* win x64：链接: https://pan.baidu.com/s/1mTsnefP01_QW-5ufA3cfrQ 提取码: zrbu
-* win x32：链接: https://pan.baidu.com/s/1zm85hUSYh86QAbVttdv3hg 提取码: j9ud
-* linux x64：链接: https://pan.baidu.com/s/1vdegLCX_jQjvzXU2zzCw1g 提取码: sa9n
+* mac：链接: https://pan.baidu.com/s/19fJepOb9oPMkO_DUt_Kgtw 提取码: cic5
+* mac-arm64：链接: https://pan.baidu.com/s/1ly7Gb6vFD1ShFcOuI9cRWQ 提取码: na3x
+* win x64：链接: https://pan.baidu.com/s/1X1982yDOkcdN6YyrkraTqw 提取码: 87hi
+* win x32：链接: https://pan.baidu.com/s/1TnNkg4W3Q_GgGVVUmm2uLw 提取码: a8ae
+* linux x64：链接: https://pan.baidu.com/s/1MyHXR9wpD87u2xvyz0Xnfg 提取码: yh4r
 
 ## node-oicqhttp
 
