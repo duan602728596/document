@@ -15,10 +15,10 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac全平台：链接: https://pan.baidu.com/s/1tJ6XYDCTbDJALwQtSvrSfQ 提取码: f5mw
-* win x64：链接: https://pan.baidu.com/s/1qQvGvJCnk2pkx6-YESyY4Q 提取码: stps
-* win x32：链接: https://pan.baidu.com/s/1s_sS-0l5IRymNHcJgK8jVA 提取码: xc5h
-* linux x64：链接: https://pan.baidu.com/s/1Kwc0Rf6bvjAiUaDz2h4mEQ 提取码: um2r
+* mac全平台：链接: https://pan.baidu.com/s/1DhyVLEFMHHiZlYGPlGl1gw 提取码: n2q1
+* win x64：链接: https://pan.baidu.com/s/1bsS5KE4T1KXj7eUMwvLv4Q 提取码: eqxy
+* win x32：链接: https://pan.baidu.com/s/1NcZ9_GjyVZGVMiXXqDuZ8Q 提取码: iff2
+* linux x64：链接: https://pan.baidu.com/s/1JCQi-rtnSSp81seStt6jlg 提取码: f7vn
 
 ## node-oicqhttp
 
