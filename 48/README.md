@@ -5,10 +5,12 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac全平台：链接: https://pan.baidu.com/s/1LBVHzUbEIQqrnQui-YUESw 提取码: yx8e
-* win x64：链接: https://pan.baidu.com/s/13FfiNJOTuZQgpBRmy5SH0g 提取码: 8iaw
-* win x32：链接: https://pan.baidu.com/s/1a9jvfAzgSwtBtkVvEfweKA 提取码: rbh8
-* linux x64：链接: https://pan.baidu.com/s/1ZxItJw6DfCWRS6HgFMwtfA 提取码: yurb
+* mac：链接: https://pan.baidu.com/s/19SIetwT5irc75BLDqs5mrg 提取码: aii3
+* mac arm64：链接: https://pan.baidu.com/s/1MUWOBqwVs5zt9vc5RrPbvQ 提取码: arqp
+* win x64：链接: https://pan.baidu.com/s/144xIurvZYpvOC4zwUMhpXg 提取码: yxyy
+* win arm64：链接: https://pan.baidu.com/s/1M_U5PsOytTTALAuqFdZ9DA 提取码: yhde
+* win x32：链接: https://pan.baidu.com/s/1kNSouw9p1LEKRhRG-4REuw 提取码: fyc2
+* linux x64：链接: https://pan.baidu.com/s/1C65awI04bi3lubU9Jxceiw 提取码: nymr
 
 ## 48工具，常用功能合集
 
