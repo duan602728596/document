@@ -17,12 +17,12 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1cioQ0B0ob42m6AgJTqRi5g 提取码: 39ja
-* mac arm64：链接: https://pan.baidu.com/s/1mVHFR6_m3X5YufJj0tGUNg 提取码: uxtj
-* win x64：链接: https://pan.baidu.com/s/1B4sWKpk9OYnDqc1s0ged1g 提取码: ntvm
-* win arm64：链接: https://pan.baidu.com/s/1-9LTw2SDOm_3PWUwRSZPiQ 提取码: tax9
-* win x32：链接: https://pan.baidu.com/s/1IIVHl8RblR-kSihkzuhaTw 提取码: hh4n
-* linux x64：链接: https://pan.baidu.com/s/1hUu3_IQrIZz_T7hC7AZqeQ 提取码: gbcn
+* mac：链接: https://pan.baidu.com/s/1HuR9sTq_Crw1VCGUBGGOEw 提取码: cuym
+* mac arm64：链接: https://pan.baidu.com/s/1AW4tnxfFqxSjmLr1pGKbbA 提取码: a79z
+* win x64：链接: https://pan.baidu.com/s/1fM7G4-OJelZd_vcUs8D_6Q 提取码: 2f6b
+* win arm64：链接: https://pan.baidu.com/s/175nstFSxZcTYyOtrelqzHA 提取码: grkx
+* win x32：链接: https://pan.baidu.com/s/1mhSY_qvgEjhwF2Xq0ChTFQ 提取码: d3a3
+* linux x64：链接: https://pan.baidu.com/s/1lu8ghPHpfiCVhXkW4HBKKg 提取码: d9jk
 
 ## node-oicqhttp
 
