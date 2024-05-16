@@ -5,24 +5,24 @@
 ### 下载地址
 [https://github.com/duan602728596/qqtools/releases](https://github.com/duan602728596/qqtools/releases)   
 [https://gitee.com/duanhaochen/qqtools/releases](https://gitee.com/duanhaochen/qqtools/releases)
-* mac：链接: https://pan.baidu.com/s/19SIetwT5irc75BLDqs5mrg 提取码: aii3
-* mac arm64：链接: https://pan.baidu.com/s/1MUWOBqwVs5zt9vc5RrPbvQ 提取码: arqp
-* win x64：链接: https://pan.baidu.com/s/144xIurvZYpvOC4zwUMhpXg 提取码: yxyy
+* mac：链接: https://pan.baidu.com/s/1aFuqdHG7EY9_DnEdoUxiLw 提取码: qckq
+* mac arm64：链接: https://pan.baidu.com/s/1MpaWZ60PRkdxnxji_xJqQg 提取码: ig3f
+* win x64：链接: https://pan.baidu.com/s/1IgLQOhQY7zLUXI4yVz9Qyg 提取码: b4pj
 * win arm64：链接: https://pan.baidu.com/s/1M_U5PsOytTTALAuqFdZ9DA 提取码: yhde
-* win x32：链接: https://pan.baidu.com/s/1kNSouw9p1LEKRhRG-4REuw 提取码: fyc2
-* linux x64：链接: https://pan.baidu.com/s/1C65awI04bi3lubU9Jxceiw 提取码: nymr
+* win x32：链接: https://pan.baidu.com/s/1PrkZorSktovNcyuDfbTHVQ 提取码: bj36
+* linux x64：链接: https://pan.baidu.com/s/1_Rq4jC-jUkoY9vmDBKq_bg 提取码: v7e2
 
 ## 48工具，常用功能合集
 
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：链接: https://pan.baidu.com/s/1ZLNQrqIKIzY8YCD4cuCABg 提取码: cvrr
-* mac arm64：链接: https://pan.baidu.com/s/1OU2KAkL2JnHGe1gH3tnAHw 提取码: 5exc
-* win x64：链接: https://pan.baidu.com/s/1JBe3UfQ96FizZHa812b4KA 提取码: i2sa
-* win arm64：链接: https://pan.baidu.com/s/162JDzfKmsf4MasIS-JqOrA 提取码: ngrx
-* win x32：链接: https://pan.baidu.com/s/1ZLNQrqIKIzY8YCD4cuCABg 提取码: cvrr
-* linux x64：链接: https://pan.baidu.com/s/14XdAPYGskXwI_sAwAwwqng 提取码: cfcq
+* mac：链接: https://pan.baidu.com/s/1WcdMGBMQYFzF-k4l8NsdNA 提取码: wpm5
+* mac arm64：链接: https://pan.baidu.com/s/1FFFL0tp_eV1fPKrE27nI6w 提取码: 2y1f
+* win x64：链接: https://pan.baidu.com/s/17fm-HYqSuG5MxcMPNwf2gw 提取码: gbqa
+* win arm64：链接: https://pan.baidu.com/s/1o3VyoI-VI8EcOdn7Ibqm_g 提取码: 95ny
+* win x32：链接: https://pan.baidu.com/s/1uVOZsegjISez-bQH5fx-lA 提取码: ftbw
+* linux x64：链接: https://pan.baidu.com/s/1VjuYl2XwFEXE3ZC5C9FOoA 提取码: izwd
 
 ## node-oicqhttp
 
