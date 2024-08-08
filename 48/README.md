@@ -5,12 +5,12 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：https://pan.baidu.com/s/1N4zpeO1Y1w-AGPjkrAi3Lw 提取码: zvgq
-* mac arm64：https://pan.baidu.com/s/1swgzOrF47k3ti-YlBI1SAQ 提取码: p5x9
-* win x64：https://pan.baidu.com/s/1q-SDNl0S4csNC4NVu1407g 提取码: ctwx
-* win arm64：https://pan.baidu.com/s/19qXqjSDHpCX9GKmmILagfg 提取码: y8ig
-* win x32：https://pan.baidu.com/s/10Os7jFfCyADjqVxyIEefMg 提取码: bc5u
-* linux x64：https://pan.baidu.com/s/1M-SYqTCFltUNOs43fUznIg 提取码: 2z1m
+* mac：https://pan.baidu.com/s/1nUu3bwFD3-2gmFsJLqK-dA 提取码: cfa8
+* mac arm64：https://pan.baidu.com/s/1JdA4K1SkF_q5f1jS0zvRMw 提取码: mw5k
+* win x64：https://pan.baidu.com/s/14W3zP2AdEgNYed7lHNoMGA 提取码: h7ab
+* win arm64：https://pan.baidu.com/s/1dsloX-nG163M89YEf4LvRg 提取码: vnft
+* win x32：https://pan.baidu.com/s/1fL0MQtgV4KNy9cxN13UpmA 提取码: sp7n
+* linux x64：https://pan.baidu.com/s/1rp54WHVEAeN0Z0RD9yrfQg 提取码: wu5a
 
 ## qqtools
 
