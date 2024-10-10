@@ -5,12 +5,12 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：https://pan.baidu.com/s/1Q41uG4wR9uv4cCQhxCh9Pw 提取码: 8ujb
-* mac arm64：https://pan.baidu.com/s/1mMRKsWTCzowoPfpzE_PzfA 提取码: c6mq
-* win x64：https://pan.baidu.com/s/1PDArEADrGS4b1Xd9h-EF_w 提取码: 6se4
-* win arm64：https://pan.baidu.com/s/1NSJsOmbx4-pcJYFxnzEzfQ 提取码: gujn
-* win x32：https://pan.baidu.com/s/1Jx17eehUP8Pe9jv1qetZ8Q 提取码: yv78
-* linux x64：https://pan.baidu.com/s/1XFozBpldbowhhcSQ9cyUpg 提取码: bq44
+* mac：https://pan.baidu.com/s/1c14ykZEK1zagCFO3HiyPcw 提取码: 2mey
+* mac arm64：https://pan.baidu.com/s/1r7ervaitPG5gDIpIARpFTg 提取码: gjjz
+* win x64：https://pan.baidu.com/s/1fcKJA9Ww-qzW8lRBa7oirw 提取码: v7w1
+* win arm64：https://pan.baidu.com/s/1zrOdqo7OETJWsscbxIM3_Q 提取码: 6nec
+* win x32：https://pan.baidu.com/s/1nRVHlT0ghtLmFDXMDug8JA 提取码: ct7y
+* linux x64：https://pan.baidu.com/s/10xERtXTsQQpQ8em97FhFUA 提取码: tt5y
 
 ## qqtools
 
