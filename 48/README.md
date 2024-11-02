@@ -5,18 +5,15 @@
 ### 下载地址
 [https://github.com/duan602728596/48tools/releases](https://github.com/duan602728596/48tools/releases)   
 [https://gitee.com/duanhaochen/a48tools/releases](https://gitee.com/duanhaochen/a48tools/releases)
-* mac：通过网盘分享的文件：48tools-4.14.6-mac.zip
-链接: https://pan.baidu.com/s/1CsmucUwo9IHiNi2GXjZMrw 提取码: w5uc
-* mac arm64：通过网盘分享的文件：48tools-4.14.6-mac-arm64.zip
-链接: https://pan.baidu.com/s/1LkTQlX2RcTYcHQvxs05gcA 提取码: dqvu
-* win x64：通过网盘分享的文件：48tools-4.14.6-win64.zip
-链接: https://pan.baidu.com/s/184CaVS6KVYvisUJ3c_5Kmw 提取码: fnn7
-* win arm64：通过网盘分享的文件：48tools-4.14.6-win-arm64.zip
-链接: https://pan.baidu.com/s/10vWtXkjIForzup10_HO6tw 提取码: 9aqc
-* win x32：通过网盘分享的文件：48tools-4.14.6-win32.zip
-链接: https://pan.baidu.com/s/171P8itNHHL1NnbaL18mtyg 提取码: k5sk
-* linux x64：通过网盘分享的文件：48tools-4.14.6-linux64.zip
-链接: https://pan.baidu.com/s/1wss6BbWe33ouIur1Z5tJnw 提取码: m1s8
+
+| 操作系统 | 链接 |
+| --- | --- |
+| mac       | https://pan.baidu.com/s/1ChGRF-lqb6s_1GmuVSVw8Q 提取码: 9ux7 |
+| mac arm64 | https://pan.baidu.com/s/1ypzsBxGYRIcmdtZc2fYBlQ 提取码: ya73 |
+| win x64   | https://pan.baidu.com/s/1aCZGi9uNk_hd0ABszv54AA 提取码: 6wqp |
+| win arm64 | https://pan.baidu.com/s/1xm8z8_SJRyE0DBJnzCc4zQ 提取码: 6x54 |
+| win x32   | https://pan.baidu.com/s/1Ag2ptbViTI_M9_yqPYJwWQ 提取码: 7upv |
+| linux x64 | https://pan.baidu.com/s/1dfAqMON50dk0ZGJMgUMdkQ 提取码: jp6p |
 
 ## qqtools
 
