@@ -8,12 +8,12 @@
 
 | 操作系统 | 链接 |
 | --- | --- |
-| mac       | 链接: https://pan.baidu.com/s/13yuWTC1Ts_Spcnxotnr_8w 提取码: fd3x |
-| mac arm64 | 链接: https://pan.baidu.com/s/1AHOxUD5yURQ03Qahf-P3aA 提取码: 5ww6 |
-| win x64   | 链接: https://pan.baidu.com/s/17yI01n9D9edwrzHbOvYbOg 提取码: a5yy |
-| win arm64 | 链接: https://pan.baidu.com/s/17m4K5AIJq7i39Q23oj-gxw 提取码: hmyr |
-| win x32   | 链接: https://pan.baidu.com/s/1scJtPxBbBZ3SYZ9uf2nH0A 提取码: m3dz |
-| linux x64 | 链接: https://pan.baidu.com/s/1ovHstQkiWG7OOXmBACXfRA 提取码: g3g9 |
+| mac       | https://pan.baidu.com/s/1PWsVGUkYbq8ws8cclEHlUg?pwd=69j7 提取码: 69j7 |
+| mac arm64 | https://pan.baidu.com/s/1OnFksUSEDspPtiYJLDSc6w?pwd=vnbs 提取码: vnbs |
+| win x64   | https://pan.baidu.com/s/11INAqSTGI9UFus9avL0iUw?pwd=n7in 提取码: n7in |
+| win arm64 | https://pan.baidu.com/s/1UXwauVFZ8EJ3fPStKsAebA?pwd=qjrr 提取码: qjrr |
+| win x32   | https://pan.baidu.com/s/1AbqpD6-tEXvkD6HopHGKRw?pwd=3a5p 提取码: 3a5p |
+| linux x64 | https://pan.baidu.com/s/17Ga2wESvujrJ_wzh0hbGmQ?pwd=6kkq 提取码: 6kkq |
 
 ## qqtools
 
