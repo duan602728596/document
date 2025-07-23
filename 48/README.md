@@ -8,12 +8,12 @@
 
 | 操作系统 | 链接 |
 | --- | --- |
-| mac       | 链接: https://pan.baidu.com/s/1uUEYug6J8jBvsd8PzMlEJg?pwd=1p3j 提取码: 1p3j |
-| mac arm64 | 链接: https://pan.baidu.com/s/171K-XlNJ-WM0br0qizCnNQ?pwd=bn4g 提取码: bn4g |
-| win x64   | 链接: https://pan.baidu.com/s/1Vq-rR1yhxwcyQf4InXDxJw?pwd=6kbh 提取码: 6kbh |
-| win arm64 | 链接: https://pan.baidu.com/s/11kprXDzWs5OjPaPZx3XcWQ?pwd=67x9 提取码: 67x9 |
-| win x32   | 链接: https://pan.baidu.com/s/1Y1_Dy91O2py9E8Tx87lUeQ?pwd=k5yj 提取码: k5yj |
-| linux x64 | 链接: https://pan.baidu.com/s/1uwMXDKnBOKjxTcXHtWM7XA?pwd=rkse 提取码: rkse |
+| mac       | 链接: https://pan.baidu.com/s/1iogY9xVquNuJEwGn9wxISQ?pwd=d88w 提取码: d88w |
+| mac arm64 | 链接: https://pan.baidu.com/s/1bF8S4obuyyfHhZ87um7TNQ?pwd=7vh9 提取码: 7vh9 |
+| win x64   | 链接: https://pan.baidu.com/s/152WqSd3cWg-7dF1seZ5hMQ?pwd=idm7 提取码: idm7 |
+| win arm64 | 链接: https://pan.baidu.com/s/1C0mHpOJGpqSscIOZZCxhIQ?pwd=d7jc 提取码: d7jc |
+| win x32   | 链接: https://pan.baidu.com/s/1QTYs6LK3QvJt6lgifOXWOQ?pwd=je45 提取码: je45 |
+| linux x64 | 链接: https://pan.baidu.com/s/1y_d_dEPtXQ4aWZXhVM9rug?pwd=krkw 提取码: krkw |
 
 ## qqtools
 
