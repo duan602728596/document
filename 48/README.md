@@ -23,12 +23,12 @@
 
 | 操作系统 | 链接 |
 | --- | --- |
-| mac       | 链接: https://pan.baidu.com/s/1aK_2Yl3I0NqJxQM1mS7X1A?pwd=iwqu 提取码: iwqu |
-| mac arm64 | 链接: https://pan.baidu.com/s/1FX6jw4vq-P_vv9t7zvZN3g?pwd=hfrv 提取码: hfrv |
-| win x64   | 链接: https://pan.baidu.com/s/1GND8wX84wRleVEW8y-VUSA?pwd=vqjf 提取码: vqjf |
-| win arm64 | 链接: https://pan.baidu.com/s/1g37V7RtVLQ7JPhGSxyMctA?pwd=j4f6 提取码: j4f6 |
-| win x32   | 链接: https://pan.baidu.com/s/1dapKdS5P2KrKg7akQF-HZw?pwd=1rm5 提取码: 1rm5 |
-| linux x64 | 链接: https://pan.baidu.com/s/1M06ZjdDkb8nFXgEMVncYZA?pwd=2jqs 提取码: 2jqs |
+| mac       | 链接: https://pan.baidu.com/s/158pyT_GSZdfv3ROt1eUZGA?pwd=rmgi 提取码: rmgi |
+| mac arm64 | 链接: https://pan.baidu.com/s/1qbKlyfOX1nXAFiPyPq1wFQ?pwd=xc5n 提取码: xc5n |
+| win x64   | 链接: https://pan.baidu.com/s/1ryUf1PK9wjTn9dSH8aW60Q?pwd=brj3 提取码: brj3 |
+| win arm64 | 链接: https://pan.baidu.com/s/1ZXA6TwyeYZ6sycMVArEDuA?pwd=tnjd 提取码: tnjd |
+| win x32   | 链接: https://pan.baidu.com/s/10Idphqf_DGAbcGRGj-tTzw?pwd=dpkg 提取码: dpkg |
+| linux x64 | 链接: https://pan.baidu.com/s/1dMjrDE-kacVC2xjftntv8g?pwd=2d19 提取码: 2d19 |
 
 
 ## node-oicqhttp
