@@ -8,12 +8,12 @@
 
 | 操作系统 | 链接 |
 | --- | --- |
-| mac       | 链接: https://pan.baidu.com/s/1BLsv7jegKjVORHE9A-ICNw?pwd=kst4 提取码: kst4 |
-| mac arm64 | 链接: https://pan.baidu.com/s/1T_ZDJahyGhJQhdJiKZJe2Q?pwd=srgn 提取码: srgn |
-| win x64   | 链接: https://pan.baidu.com/s/16vE5701gJEIFM-GpLm1odg?pwd=p8wg 提取码: p8wg |
-| win arm64 | 链接: https://pan.baidu.com/s/1Gx0vKcJSlJ5EBfWGZLTYyQ?pwd=rd3p 提取码: rd3p |
-| win x32   | 链接: https://pan.baidu.com/s/1irVs6qhTsnLeJnFDweYfHg?pwd=exif 提取码: exif |
-| linux x64 | 链接: https://pan.baidu.com/s/1ezz5ljuwQXbNcLUJceVv3A?pwd=is32 提取码: is32 |
+| mac       | 链接: https://pan.baidu.com/s/1yWjxFR1-s1u9dHKWtnLlzw?pwd=ifhj 提取码: ifhj |
+| mac arm64 | 链接: https://pan.baidu.com/s/1xIgzFGaKWl7TzlIV9a0ASg?pwd=v7tm 提取码: v7tm |
+| win x64   | 链接: https://pan.baidu.com/s/1PQEJG-aFtjLnoth1sxUmPA?pwd=nqtv 提取码: nqtv |
+| win arm64 | 链接: https://pan.baidu.com/s/1-Oot5D0V92UcMrj4RQSDgA?pwd=7ky5 提取码: 7ky5 |
+| win x32   | 链接: https://pan.baidu.com/s/1UmLB3XtLWK5v0iRbEFbQHw?pwd=ejnc 提取码: ejnc |
+| linux x64 | 链接: https://pan.baidu.com/s/1CG2RHI-JXo6ylwP52QWIzA?pwd=8bjk 提取码: 8bjk |
 
 ## qqtools
 
